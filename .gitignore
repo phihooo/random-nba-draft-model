@@ -1,0 +1,27 @@
+# Python environments and generated caches
+.venv/
+venv/
+.deps/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.matplotlib_cache/
+.ipynb_checkpoints/
+
+# Temporary report renders and operating-system files
+/tmp/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local tool settings and credentials
+.claude/
+.codex/
+.aws/
+.env
+.env.*
+!.env.example
+*.pem
+*.key

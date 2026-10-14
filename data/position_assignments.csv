@@ -1,0 +1,897 @@
+player,Draft_Year,pick,nba_entry_position,primary_position,position_source,position_confidence,position_observed_season,role,ht,height_in,college
+Blake Griffin,2009,1,PF,PF,nba_rookie_season,1.0,2011.0,,6-10,82.0,Oklahoma
+Hasheem Thabeet,2009,2,C,C,nba_rookie_season,1.0,2010.0,,7-3,87.0,UConn
+James Harden,2009,3,SG,SG,nba_rookie_season,1.0,2010.0,,6-5,77.0,Arizona State
+Tyreke Evans,2009,4,SG,SG,nba_rookie_season,1.0,2010.0,,6-6,78.0,Memphis
+Ricky Rubio,2009,5,PG,PG,nba_rookie_season,1.0,2012.0,,,,
+Jonny Flynn,2009,6,PG,PG,nba_rookie_season,1.0,2010.0,,6-0,72.0,Syracuse
+Stephen Curry,2009,7,PG,PG,nba_rookie_season,1.0,2010.0,,6-3,75.0,Davidson
+Jordan Hill,2009,8,PF,PF,nba_rookie_season,1.0,2010.0,,6-10,82.0,Arizona
+DeMar DeRozan,2009,9,SG,SG,nba_rookie_season,1.0,2010.0,,6-7,79.0,USC
+Brandon Jennings,2009,10,PG,PG,nba_rookie_season,1.0,2010.0,,,,
+Terrence Williams,2009,11,SF,SF,nba_rookie_season,1.0,2010.0,,6-6,78.0,Louisville
+Gerald Henderson,2009,12,SG,SG,nba_rookie_season,1.0,2010.0,,6-5,77.0,Duke
+Tyler Hansbrough,2009,13,PF,PF,nba_rookie_season,1.0,2010.0,,6-9,81.0,UNC
+Earl Clark,2009,14,PF,PF,nba_rookie_season,1.0,2010.0,,6-9,81.0,Louisville
+Austin Daye,2009,15,SF,SF,nba_rookie_season,1.0,2010.0,,6-11,83.0,Gonzaga
+James Johnson,2009,16,PF,PF,nba_rookie_season,1.0,2010.0,,6-8,80.0,Wake Forest
+Jrue Holiday,2009,17,PG,PG,nba_rookie_season,1.0,2010.0,,6-3,75.0,UCLA
+Ty Lawson,2009,18,PG,PG,nba_rookie_season,1.0,2010.0,,5-11,71.0,UNC
+Jeff Teague,2009,19,PG,PG,nba_rookie_season,1.0,2010.0,,6-2,74.0,Wake Forest
+Eric Maynor,2009,20,PG,PG,nba_rookie_season,1.0,2010.0,,6-2,74.0,VCU
+Darren Collison,2009,21,PG,PG,nba_rookie_season,1.0,2010.0,,6-1,73.0,UCLA
+Victor Claver,2009,22,SF,SF,nba_rookie_season,1.0,2013.0,,,,
+Omri Casspi,2009,23,SF,SF,nba_rookie_season,1.0,2010.0,,,,
+Byron Mullens,2009,24,PF,PF,nba_rookie_season,1.0,2010.0,,7-0,84.0,Ohio State
+Rodrigue Beaubois,2009,25,PG,PG,nba_rookie_season,1.0,2010.0,,,,
+Taj Gibson,2009,26,PF,PF,nba_rookie_season,1.0,2010.0,,6-9,81.0,USC
+DeMarre Carroll,2009,27,SF,SF,nba_rookie_season,1.0,2010.0,,6-8,80.0,Missouri
+Wayne Ellington,2009,28,SG,SG,nba_rookie_season,1.0,2010.0,,6-4,76.0,UNC
+Toney Douglas,2009,29,PG,PG,nba_rookie_season,1.0,2010.0,,6-1,73.0,Florida State
+Christian Eyenga,2009,30,SF,SF,nba_rookie_season,1.0,2011.0,,,,
+Jeff Ayres,2009,31,C,C,nba_rookie_season,1.0,2010.0,,6-10,82.0,Arizona State
+Jermaine Taylor,2009,32,SG,SG,nba_rookie_season,1.0,2010.0,,6-4,76.0,Central Florida
+Dante Cunningham,2009,33,PF,PF,nba_rookie_season,1.0,2010.0,,6-9,81.0,Villanova
+Sergio Llull,2009,34,,,,,,,,,
+DaJuan Summers,2009,35,SF,SF,nba_rookie_season,1.0,2010.0,,6-8,80.0,Georgetown
+Sam Young,2009,36,SF,SF,nba_rookie_season,1.0,2010.0,,6-6,78.0,Pitt
+DeJuan Blair,2009,37,PF,PF,nba_rookie_season,1.0,2010.0,,6-7,79.0,Pitt
+Jon Brockman,2009,38,PF,PF,nba_rookie_season,1.0,2010.0,,6-7,79.0,Washington
+Jonas Jerebko,2009,39,PF,PF,nba_rookie_season,1.0,2010.0,,,,
+Derrick Brown,2009,40,SF,SF,nba_rookie_season,1.0,2010.0,,6-8,80.0,Xavier
+Jodie Meeks,2009,41,SG,SG,nba_rookie_season,1.0,2010.0,,6-5,77.0,Kentucky
+Patrick Beverley,2009,42,PG,PG,nba_rookie_season,1.0,2013.0,,,,Arkansas
+Marcus Thornton,2009,43,SG,SG,nba_rookie_season,1.0,2010.0,,6-4,76.0,LSU
+Chase Budinger,2009,44,SF,SF,nba_rookie_season,1.0,2010.0,,6-7,79.0,Arizona
+Nick Calathes,2009,45,SG,SG,nba_rookie_season,1.0,2014.0,,6-6,78.0,Florida
+Danny Green,2009,46,SG,SG,nba_rookie_season,1.0,2010.0,,6-5,77.0,UNC
+Henk Norel,2009,47,,,,,,,,,
+Taylor Griffin,2009,48,SF,SF,nba_rookie_season,1.0,2010.0,,6-7,79.0,Oklahoma
+Sergiy Gladyr,2009,49,,,,,,,,,
+Goran Suton,2009,50,,PF,college_position_model,0.6470818476942645,,,6-10,82.0,Michigan State
+Jack McClinton,2009,51,,PG,college_position_model,0.7196858743455372,,,6-1,73.0,Miami (FL)
+A.J. Price,2009,52,PG,PG,nba_rookie_season,1.0,2010.0,,6-2,74.0,UConn
+Nando De Colo,2009,53,SG,SG,nba_rookie_season,1.0,2013.0,,,,
+Robert Vaden,2009,54,,SG,college_position_model,0.7467350292858307,,,6-5,77.0,UAB
+Patty Mills,2009,55,PG,PG,nba_rookie_season,1.0,2010.0,,6-0,72.0,Saint Mary's
+Ahmad Nivins,2009,56,,PF,college_position_model,0.8481678779227594,,,6-9,81.0,Saint Joseph's
+Emir Preldžić,2009,57,,,,,,,,,
+Lester Hudson,2009,58,PG,PG,nba_rookie_season,1.0,2010.0,,6-3,75.0,University of Tennessee at Martin
+Chinemelu Elonu,2009,59,,PF,college_position_model,0.6096699527868453,,,6-10,82.0,Texas A&M
+Robert Dozier,2009,60,,PF,college_position_model,0.594822375553809,,,6-9,81.0,Memphis
+John Wall,2010,1,PG,PG,nba_rookie_season,1.0,2011.0,Pure PG,6-4,76.0,Kentucky
+Evan Turner,2010,2,SG,SG,nba_rookie_season,1.0,2011.0,Wing F,6-7,79.0,Ohio State
+Derrick Favors,2010,3,PF,PF,nba_rookie_season,1.0,2011.0,C,6-10,82.0,Georgia Tech
+Wesley Johnson,2010,4,SG,SG,nba_rookie_season,1.0,2011.0,,,,Syracuse
+DeMarcus Cousins,2010,5,C,C,nba_rookie_season,1.0,2011.0,C,6-11,83.0,Kentucky
+Ekpe Udoh,2010,6,C,C,nba_rookie_season,1.0,2011.0,C,6-10,82.0,Baylor
+Greg Monroe,2010,7,C,C,nba_rookie_season,1.0,2011.0,PF/C,6-11,83.0,Georgetown
+Al-Farouq Aminu,2010,8,SF,SF,nba_rookie_season,1.0,2011.0,PF/C,6-9,81.0,Wake Forest
+Gordon Hayward,2010,9,SF,SF,nba_rookie_season,1.0,2011.0,Stretch 4,6-9,81.0,Butler
+Paul George,2010,10,SG,SG,nba_rookie_season,1.0,2011.0,Wing F,6-8,80.0,Fresno State
+Cole Aldrich,2010,11,C,C,nba_rookie_season,1.0,2011.0,C,6-11,83.0,Kansas
+Xavier Henry,2010,12,SG,SG,nba_rookie_season,1.0,2011.0,Wing G,6-6,78.0,Kansas
+Ed Davis,2010,13,PF,PF,nba_rookie_season,1.0,2011.0,C,6-10,82.0,UNC
+Patrick Patterson,2010,14,PF,PF,nba_rookie_season,1.0,2011.0,PF/C,6-9,81.0,Kentucky
+Larry Sanders,2010,15,C,C,nba_rookie_season,1.0,2011.0,C,6-11,83.0,VCU
+Luke Babbitt,2010,16,SF,SF,nba_rookie_season,1.0,2011.0,Wing F,6-9,81.0,Nevada
+Kevin Séraphin,2010,17,PF,PF,nba_rookie_season,1.0,2011.0,,,,
+Eric Bledsoe,2010,18,PG,PG,nba_rookie_season,1.0,2011.0,Combo G,6-1,73.0,Kentucky
+Avery Bradley,2010,19,PG,PG,nba_rookie_season,1.0,2011.0,Combo G,6-2,74.0,Texas
+James Anderson,2010,20,SF,SF,nba_rookie_season,1.0,2011.0,Wing G,6-6,78.0,Oklahoma State
+Craig Brackins,2010,21,PF,PF,nba_rookie_season,1.0,2011.0,PF/C,6-10,82.0,Iowa State
+Elliot Williams,2010,22,SG,SG,nba_rookie_season,1.0,2012.0,Combo G,6-5,77.0,Memphis
+Trevor Booker,2010,23,PF,PF,nba_rookie_season,1.0,2011.0,Wing F,6-7,79.0,Clemson
+Damion James,2010,24,SF,SF,nba_rookie_season,1.0,2011.0,PF/C,6-7,79.0,Texas
+Dominique Jones,2010,25,SG,SG,nba_rookie_season,1.0,2011.0,Combo G,6-4,76.0,South Florida
+Quincy Pondexter,2010,26,SF,SF,nba_rookie_season,1.0,2011.0,Wing F,6-6,78.0,Washington
+Jordan Crawford,2010,27,SG,SG,nba_rookie_season,1.0,2011.0,Combo G,6-4,76.0,Xavier
+Greivis Vásquez,2010,28,PG,PG,nba_rookie_season,1.0,2011.0,,,,Maryland
+Daniel Orton,2010,29,PF,PF,nba_rookie_season,1.0,2012.0,C,6-11,83.0,Kentucky
+Lazar Hayward,2010,30,SF,SF,nba_rookie_season,1.0,2011.0,Wing F,6-6,78.0,Marquette
+Tibor Pleiß,2010,31,C,C,nba_rookie_season,1.0,2016.0,,,,
+Dexter Pittman,2010,32,C,C,nba_rookie_season,1.0,2011.0,C,6-10,82.0,Texas
+Hassan Whiteside,2010,33,C,C,nba_rookie_season,1.0,2011.0,C,7-0,84.0,Marshall
+Armon Johnson,2010,34,PG,PG,nba_rookie_season,1.0,2011.0,Scoring PG,6-3,75.0,Nevada
+Nemanja Bjelica,2010,35,PF,PF,nba_rookie_season,1.0,2016.0,,,,
+Terrico White,2010,36,,SG,college_position_model,0.7990152724434659,,Wing G,6-5,77.0,Ole Miss
+Darington Hobson,2010,37,SG,SG,nba_rookie_season,1.0,2012.0,Wing F,6-7,79.0,New Mexico
+Andy Rautins,2010,38,SG,SG,nba_rookie_season,1.0,2011.0,Scoring PG,6-4,76.0,Syracuse
+Landry Fields,2010,39,SG,SG,nba_rookie_season,1.0,2011.0,Wing F,6-7,79.0,Stanford
+Lance Stephenson,2010,40,SG,SG,nba_rookie_season,1.0,2011.0,Wing G,6-5,77.0,Cincinnati
+Jarvis Varnado,2010,41,PF,PF,nba_rookie_season,1.0,2013.0,C,6-9,81.0,Mississippi State
+Da'Sean Butler,2010,42,,SF,college_position_model,0.5109739127345251,,Wing G,6-7,79.0,West Virginia
+Devin Ebanks,2010,43,SG,SG,nba_rookie_season,1.0,2011.0,Wing F,6-9,81.0,West Virginia
+Jerome Jordan,2010,44,C,C,nba_rookie_season,1.0,2012.0,C,7-0,84.0,Tulsa
+Paulão Prestes,2010,45,,,,,,,,,
+Gani Lawal,2010,46,PF,PF,nba_rookie_season,1.0,2011.0,C,6-9,81.0,Georgia Tech
+Tiny Gallon,2010,47,,PF,college_position_model,0.7594393414987374,,PF/C,6-9,81.0,Oklahoma
+Latavious Williams,2010,48,,,,,,,,,
+Ryan Richards,2010,49,,,,,,,,,
+Solomon Alabi,2010,50,C,C,nba_rookie_season,1.0,2011.0,C,7-1,85.0,Florida State
+Magnum Rolle,2010,51,,C,college_position_model,0.8113892137809798,,C,6-11,83.0,Louisiana Tech
+Luke Harangody,2010,52,PF,PF,nba_rookie_season,1.0,2011.0,PF/C,6-8,80.0,Notre Dame
+Pape Sy,2010,53,SF,SF,nba_rookie_season,1.0,2011.0,,,,
+Willie Warren,2010,54,PG,PG,nba_rookie_season,1.0,2011.0,Scoring PG,6-4,76.0,Oklahoma
+Jeremy Evans,2010,55,SF,SF,nba_rookie_season,1.0,2011.0,C,6-9,81.0,Western Kentucky
+Hamady N'Diaye,2010,56,C,C,nba_rookie_season,1.0,2011.0,C,7-0,84.0,Rutgers University
+Ryan Reid,2010,57,PF,PF,nba_rookie_season,1.0,2012.0,C,6-8,80.0,Florida State
+Derrick Caracter,2010,58,C,C,nba_rookie_season,1.0,2011.0,PF/C,6-9,81.0,Texas-El Paso
+Stanley Robinson,2010,59,,PF,college_position_model,0.7760084530169036,,Wing F,6-9,81.0,UConn
+Dwayne Collins,2010,60,,PF,college_position_model,0.7401605619818581,,C,6-8,80.0,Miami (FL)
+Kyrie Irving,2011,1,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-2,74.0,Duke
+Derrick Williams,2011,2,PF,PF,nba_rookie_season,1.0,2012.0,Wing F,6-8,80.0,Arizona
+Enes Freedom,2011,3,C,C,nba_rookie_season,1.0,2012.0,,,,
+Tristan Thompson,2011,4,PF,PF,nba_rookie_season,1.0,2012.0,C,6-8,80.0,Texas
+Jonas Valančiūnas,2011,5,C,C,nba_rookie_season,1.0,2013.0,,,,
+Jan Veselý,2011,6,PF,PF,nba_rookie_season,1.0,2012.0,,,,
+Bismack Biyombo,2011,7,C,C,nba_rookie_season,1.0,2012.0,,,,
+Brandon Knight,2011,8,PG,PG,nba_rookie_season,1.0,2012.0,Combo G,6-3,75.0,Kentucky
+Kemba Walker,2011,9,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-1,73.0,UConn
+Jimmer Fredette,2011,10,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-2,74.0,BYU
+Klay Thompson,2011,11,SG,SG,nba_rookie_season,1.0,2012.0,Combo G,6-6,78.0,Washington State
+Alec Burks,2011,12,SG,SG,nba_rookie_season,1.0,2012.0,Wing G,6-6,78.0,Colorado
+Markieff Morris,2011,13,PF,PF,nba_rookie_season,1.0,2012.0,PF/C,6-10,82.0,Kansas
+Marcus Morris,2011,14,PF,PF,nba_rookie_season,1.0,2012.0,PF/C,6-9,81.0,Kansas
+Kawhi Leonard,2011,15,SF,SF,nba_rookie_season,1.0,2012.0,PF/C,6-6,78.0,San Diego State
+Nikola Vučević,2011,16,C,C,nba_rookie_season,1.0,2012.0,,,,USC
+Iman Shumpert,2011,17,PG,PG,nba_rookie_season,1.0,2012.0,Combo G,6-5,77.0,Georgia Tech
+Chris Singleton,2011,18,SF,SF,nba_rookie_season,1.0,2012.0,Stretch 4,6-9,81.0,Florida State
+Tobias Harris,2011,19,SF,SF,nba_rookie_season,1.0,2012.0,PF/C,6-8,80.0,Tennessee
+Donatas Motiejūnas,2011,20,PF,PF,nba_rookie_season,1.0,2013.0,,,,
+Nolan Smith,2011,21,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-2,74.0,Duke
+Kenneth Faried,2011,22,PF,PF,nba_rookie_season,1.0,2012.0,C,6-8,80.0,Morehead State University
+Nikola Mirotić,2011,23,PF,PF,nba_rookie_season,1.0,2015.0,,,,
+Reggie Jackson,2011,24,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-3,75.0,Boston College
+MarShon Brooks,2011,25,SG,SG,nba_rookie_season,1.0,2012.0,Wing G,6-5,77.0,Providence
+Jordan Hamilton,2011,26,SF,SF,nba_rookie_season,1.0,2012.0,Stretch 4,6-7,79.0,Texas
+JaJuan Johnson,2011,27,PF,PF,nba_rookie_season,1.0,2012.0,PF/C,6-10,82.0,Purdue
+Norris Cole,2011,28,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-2,74.0,Cleveland State University
+Cory Joseph,2011,29,PG,PG,nba_rookie_season,1.0,2012.0,Combo G,6-3,75.0,Texas
+Jimmy Butler,2011,30,SG,SG,nba_rookie_season,1.0,2012.0,Wing G,6-6,78.0,Marquette
+Bojan Bogdanović,2011,31,SF,SF,nba_rookie_season,1.0,2015.0,,,,
+Justin Harper,2011,32,PF,PF,nba_rookie_season,1.0,2012.0,Stretch 4,6-10,82.0,Richmond
+Kyle Singler,2011,33,SF,SF,nba_rookie_season,1.0,2013.0,Wing F,6-8,80.0,Duke
+Shelvin Mack,2011,34,PG,PG,nba_rookie_season,1.0,2012.0,Combo G,6-3,75.0,Butler
+Tyler Honeycutt,2011,35,SF,SF,nba_rookie_season,1.0,2012.0,Stretch 4,6-8,80.0,UCLA
+Jordan Williams,2011,36,C,C,nba_rookie_season,1.0,2012.0,C,6-10,82.0,Maryland
+Trey Thompkins,2011,37,C,C,nba_rookie_season,1.0,2012.0,,,,Georgia
+Chandler Parsons,2011,38,SF,SF,nba_rookie_season,1.0,2012.0,Stretch 4,6-10,82.0,Florida
+Jeremy Tyler,2011,39,C,C,nba_rookie_season,1.0,2012.0,,,,
+Jon Leuer,2011,40,PF,PF,nba_rookie_season,1.0,2012.0,PF/C,6-10,82.0,Wisconsin
+Darius Morris,2011,41,PG,PG,nba_rookie_season,1.0,2012.0,Pure PG,6-4,76.0,Michigan
+Dāvis Bertāns,2011,42,PF,PF,nba_rookie_season,1.0,2017.0,,,,
+Malcolm Lee,2011,43,SG,SG,nba_rookie_season,1.0,2012.0,Wing G,6-5,77.0,UCLA
+Charles Jenkins,2011,44,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,6-3,75.0,Hofstra
+Josh Harrellson,2011,45,PF,PF,nba_rookie_season,1.0,2012.0,C,6-10,82.0,Kentucky
+Andrew Goudelock,2011,46,SG,SG,nba_rookie_season,1.0,2012.0,Scoring PG,6-2,74.0,College of Charleston
+Travis Leslie,2011,47,SG,SG,nba_rookie_season,1.0,2012.0,Wing G,6-4,76.0,Georgia
+Keith Benson,2011,48,C,C,nba_rookie_season,1.0,2012.0,C,6-11,83.0,Oakland
+Josh Selby,2011,49,PG,PG,nba_rookie_season,1.0,2012.0,Combo G,6-2,74.0,Kansas
+Lavoy Allen,2011,50,PF,PF,nba_rookie_season,1.0,2012.0,PF/C,6-9,81.0,Temple
+Jon Diebler,2011,51,,SG,college_position_model,0.6767991384672002,,Combo G,6-6,78.0,Ohio State
+Vernon Macklin,2011,52,C,C,nba_rookie_season,1.0,2012.0,C,6-10,82.0,Florida
+DeAndre Liggins,2011,53,SF,SF,nba_rookie_season,1.0,2012.0,Wing G,6-6,78.0,Kentucky
+Milan Mačvan,2011,54,,,,,,,,,
+E'Twaun Moore,2011,55,PG,PG,nba_rookie_season,1.0,2012.0,Combo G,6-4,76.0,Purdue
+Chukwudiebere Maduabum,2011,56,,,,,,,,,
+Tanguy Ngombo,2011,57,,,,,,,,,
+Ater Majok,2011,58,,,,,,,,,
+Ádám Hanga,2011,59,,,,,,,,,
+Isaiah Thomas,2011,60,PG,PG,nba_rookie_season,1.0,2012.0,Scoring PG,5-9,69.0,Washington
+Anthony Davis,2012,1,PF,PF,nba_rookie_season,1.0,2013.0,C,6-10,82.0,Kentucky
+Michael Kidd-Gilchrist,2012,2,SF,SF,nba_rookie_season,1.0,2013.0,Wing F,6-7,79.0,Kentucky
+Bradley Beal,2012,3,SG,SG,nba_rookie_season,1.0,2013.0,Wing G,6-3,75.0,Florida
+Dion Waiters,2012,4,SG,SG,nba_rookie_season,1.0,2013.0,Scoring PG,6-4,76.0,Syracuse
+Thomas Robinson,2012,5,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-9,81.0,Kansas
+Damian Lillard,2012,6,PG,PG,nba_rookie_season,1.0,2013.0,Scoring PG,6-2,74.0,Weber State
+Harrison Barnes,2012,7,SF,SF,nba_rookie_season,1.0,2013.0,Wing F,6-8,80.0,UNC
+Terrence Ross,2012,8,SG,SG,nba_rookie_season,1.0,2013.0,Wing F,6-6,78.0,Washington
+Andre Drummond,2012,9,C,C,nba_rookie_season,1.0,2013.0,C,6-10,82.0,UConn
+Austin Rivers,2012,10,SG,SG,nba_rookie_season,1.0,2013.0,Combo G,6-4,76.0,Duke
+Meyers Leonard,2012,11,C,C,nba_rookie_season,1.0,2013.0,C,7-0,84.0,Illinois
+Jeremy Lamb,2012,12,SF,SF,nba_rookie_season,1.0,2013.0,Wing G,6-5,77.0,UConn
+Kendall Marshall,2012,13,PG,PG,nba_rookie_season,1.0,2013.0,Pure PG,6-4,76.0,UNC
+John Henson,2012,14,PF,PF,nba_rookie_season,1.0,2013.0,C,6-11,83.0,UNC
+Maurice Harkless,2012,15,SF,SF,nba_rookie_season,1.0,2013.0,,,,St. John's
+Royce White,2012,16,PF,PF,nba_rookie_season,1.0,2014.0,Wing F,6-8,80.0,Iowa State
+Tyler Zeller,2012,17,C,C,nba_rookie_season,1.0,2013.0,C,7-0,84.0,UNC
+Terrence Jones,2012,18,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-9,81.0,Kentucky
+Andrew Nicholson,2012,19,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-9,81.0,St. Bonaventure
+Evan Fournier,2012,20,SG,SG,nba_rookie_season,1.0,2013.0,,,,
+Jared Sullinger,2012,21,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-9,81.0,Ohio State
+Fab Melo,2012,22,C,C,nba_rookie_season,1.0,2013.0,C,7-0,84.0,Syracuse
+John Jenkins,2012,23,SG,SG,nba_rookie_season,1.0,2013.0,Combo G,6-3,75.0,Vanderbilt
+Jared Cunningham,2012,24,SG,SG,nba_rookie_season,1.0,2013.0,Combo G,6-4,76.0,Oregon State
+Tony Wroten,2012,25,SG,SG,nba_rookie_season,1.0,2013.0,Scoring PG,6-5,77.0,Washington
+Miles Plumlee,2012,26,C,C,nba_rookie_season,1.0,2013.0,C,6-10,82.0,Duke
+Arnett Moultrie,2012,27,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-11,83.0,Mississippi State
+Perry Jones,2012,28,SF,SF,nba_rookie_season,1.0,2013.0,,,,Baylor
+Marquis Teague,2012,29,PG,PG,nba_rookie_season,1.0,2013.0,Scoring PG,6-2,74.0,Kentucky
+Festus Ezeli,2012,30,C,C,nba_rookie_season,1.0,2013.0,C,6-11,83.0,Vanderbilt
+Jeff Taylor,2012,31,SF,SF,nba_rookie_season,1.0,2013.0,,,,Vanderbilt
+Tomáš Satoranský,2012,32,SG,SG,nba_rookie_season,1.0,2017.0,,,,
+Bernard James,2012,33,C,C,nba_rookie_season,1.0,2013.0,C,6-10,82.0,Florida State
+Jae Crowder,2012,34,SF,SF,nba_rookie_season,1.0,2013.0,Wing G,6-6,78.0,Marquette
+Draymond Green,2012,35,SF,SF,nba_rookie_season,1.0,2013.0,Stretch 4,6-7,79.0,Michigan State
+Orlando Johnson,2012,36,SG,SG,nba_rookie_season,1.0,2013.0,Wing G,6-5,77.0,UC Santa Barbara
+Quincy Acy,2012,37,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-7,79.0,Baylor
+Quincy Miller,2012,38,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-9,81.0,Baylor
+Khris Middleton,2012,39,SG,SG,nba_rookie_season,1.0,2013.0,Wing F,6-7,79.0,Texas A&M
+Will Barton,2012,40,SG,SG,nba_rookie_season,1.0,2013.0,Wing F,6-6,78.0,Memphis
+Tyshawn Taylor,2012,41,PG,PG,nba_rookie_season,1.0,2013.0,Pure PG,6-3,75.0,Kansas
+Doron Lamb,2012,42,SG,SG,nba_rookie_season,1.0,2013.0,Wing G,6-4,76.0,Kentucky
+Mike Scott,2012,43,PF,PF,nba_rookie_season,1.0,2013.0,PF/C,6-8,80.0,Virginia
+Kim English,2012,44,SG,SG,nba_rookie_season,1.0,2013.0,Wing G,6-6,78.0,Missouri
+Justin Hamilton,2012,45,C,C,nba_rookie_season,1.0,2014.0,C,6-11,83.0,LSU
+Darius Miller,2012,46,SF,SF,nba_rookie_season,1.0,2013.0,Wing F,6-8,80.0,Kentucky
+Kevin Murphy,2012,47,SG,SG,nba_rookie_season,1.0,2013.0,Wing G,6-6,78.0,Tennessee Technological University
+Kostas Papanikolaou,2012,48,SF,SF,nba_rookie_season,1.0,2015.0,,,,
+Kyle O'Quinn,2012,49,C,C,nba_rookie_season,1.0,2013.0,C,6-10,82.0,Norfolk State
+İzzet Türkyılmaz,2012,50,,,,,,,,,
+Kris Joseph,2012,51,SF,SF,nba_rookie_season,1.0,2013.0,Wing G,6-7,79.0,Syracuse
+Ognjen Kuzmić,2012,52,C,C,nba_rookie_season,1.0,2014.0,,,,
+Furkan Aldemir,2012,53,PF,PF,nba_rookie_season,1.0,2015.0,,,,
+Tornike Shengelia,2012,54,SF,SF,nba_rookie_season,1.0,2013.0,,,,
+Darius Johnson-Odom,2012,55,SG,SG,nba_rookie_season,1.0,2013.0,Combo G,6-2,74.0,Marquette
+Tomislav Zubčić,2012,56,,,,,,,,,
+İlkan Karaman,2012,57,,,,,,,,,
+Robbie Hummel,2012,58,SF,SF,nba_rookie_season,1.0,2014.0,Stretch 4,6-8,80.0,Purdue
+Marcus Denmon,2012,59,,SG,college_position_model,0.7572744816984488,,Wing G,6-3,75.0,Missouri
+Robert Sacre,2012,60,C,C,nba_rookie_season,1.0,2013.0,C,7-0,84.0,Gonzaga
+Anthony Bennett,2013,1,PF,PF,nba_rookie_season,1.0,2014.0,Stretch 4,6-8,80.0,UNLV
+Victor Oladipo,2013,2,PG,PG,nba_rookie_season,1.0,2014.0,Wing G,6-5,77.0,Indiana
+Otto Porter Jr.,2013,3,SF,SF,nba_rookie_season,1.0,2014.0,,,,Georgetown
+Cody Zeller,2013,4,C,C,nba_rookie_season,1.0,2014.0,C,7-0,84.0,Indiana
+Alex Len,2013,5,C,C,nba_rookie_season,1.0,2014.0,C,7-1,85.0,Maryland
+Nerlens Noel,2013,6,C,C,nba_rookie_season,1.0,2015.0,C,6-10,82.0,Kentucky
+Ben McLemore,2013,7,SG,SG,nba_rookie_season,1.0,2014.0,Wing G,6-5,77.0,Kansas
+Kentavious Caldwell-Pope,2013,8,SG,SG,nba_rookie_season,1.0,2014.0,Wing G,6-5,77.0,Georgia
+Trey Burke,2013,9,PG,PG,nba_rookie_season,1.0,2014.0,Pure PG,6-0,72.0,Michigan
+CJ McCollum,2013,10,SG,SG,nba_rookie_season,1.0,2014.0,Combo G,6-3,75.0,Lehigh
+Michael Carter-Williams,2013,11,PG,PG,nba_rookie_season,1.0,2014.0,Pure PG,6-6,78.0,Syracuse
+Steven Adams,2013,12,C,C,nba_rookie_season,1.0,2014.0,C,7-0,84.0,Pitt
+Kelly Olynyk,2013,13,C,C,nba_rookie_season,1.0,2014.0,PF/C,7-0,84.0,Gonzaga
+Shabazz Muhammad,2013,14,SG,SG,nba_rookie_season,1.0,2014.0,Wing F,6-6,78.0,UCLA
+Giannis Antetokounmpo,2013,15,SF,SF,nba_rookie_season,1.0,2014.0,,,,
+Lucas Nogueira,2013,16,C,C,nba_rookie_season,1.0,2015.0,,,,
+Dennis Schröder,2013,17,PG,PG,nba_rookie_season,1.0,2014.0,,,,
+Shane Larkin,2013,18,PG,PG,nba_rookie_season,1.0,2014.0,Scoring PG,5-11,71.0,Miami (FL)
+Sergey Karasev,2013,19,SF,SF,nba_rookie_season,1.0,2014.0,,,,
+Tony Snell,2013,20,SG,SG,nba_rookie_season,1.0,2014.0,Scoring PG,6-7,79.0,New Mexico
+Gorgui Dieng,2013,21,C,C,nba_rookie_season,1.0,2014.0,C,6-11,83.0,Louisville
+Mason Plumlee,2013,22,C,C,nba_rookie_season,1.0,2014.0,C,6-10,82.0,Duke
+Solomon Hill,2013,23,SF,SF,nba_rookie_season,1.0,2014.0,Wing G,6-7,79.0,Arizona
+Tim Hardaway Jr.,2013,24,SG,SG,nba_rookie_season,1.0,2014.0,Wing G,6-6,78.0,Michigan
+Reggie Bullock,2013,25,SF,SF,nba_rookie_season,1.0,2014.0,Wing G,6-7,79.0,UNC
+Andre Roberson,2013,26,SG,SG,nba_rookie_season,1.0,2014.0,PF/C,6-7,79.0,Colorado
+Rudy Gobert,2013,27,C,C,nba_rookie_season,1.0,2014.0,,,,
+Livio Jean-Charles,2013,28,,,,,,,,,
+Archie Goodwin,2013,29,SG,SG,nba_rookie_season,1.0,2014.0,Wing G,6-4,76.0,Kentucky
+Nemanja Nedović,2013,30,SG,SG,nba_rookie_season,1.0,2014.0,,,,
+Allen Crabbe,2013,31,SG,SG,nba_rookie_season,1.0,2014.0,Wing G,6-6,78.0,California
+Álex Abrines,2013,32,SG,SG,nba_rookie_season,1.0,2017.0,,,,
+Carrick Felix,2013,33,SG,SG,nba_rookie_season,1.0,2014.0,Wing F,6-6,78.0,Arizona State
+Isaiah Canaan,2013,34,PG,PG,nba_rookie_season,1.0,2014.0,Scoring PG,6-1,73.0,Murray State
+Glen Rice Jr.,2013,35,SG,SG,nba_rookie_season,1.0,2014.0,,,,Georgia Tech
+Ray McCallum,2013,36,PG,PG,nba_rookie_season,1.0,2014.0,Combo G,6-1,73.0,Detroit Mercy
+Tony Mitchell,2013,37,PF,PF,nba_rookie_season,1.0,2014.0,PF/C,6-8,80.0,University of North Texas
+Nate Wolters,2013,38,PG,PG,nba_rookie_season,1.0,2014.0,Scoring PG,6-3,75.0,South Dakota State
+Jeff Withey,2013,39,C,C,nba_rookie_season,1.0,2014.0,PF/C,7-0,84.0,Kansas
+Grant Jerrett,2013,40,PF,PF,nba_rookie_season,1.0,2015.0,PF/C,6-10,82.0,Arizona
+Jamaal Franklin,2013,41,SG,SG,nba_rookie_season,1.0,2014.0,Wing F,6-5,77.0,San Diego State
+Pierre Jackson,2013,42,PG,PG,nba_rookie_season,1.0,2017.0,Pure PG,5-10,70.0,Baylor
+Ricky Ledo,2013,43,SG,SG,nba_rookie_season,1.0,2014.0,,,,Providence
+Mike Muscala,2013,44,PF,PF,nba_rookie_season,1.0,2014.0,C,6-11,83.0,Bucknell
+Marko Todorović,2013,45,,,,,,,,,
+Erick Green,2013,46,PG,PG,nba_rookie_season,1.0,2015.0,Scoring PG,6-4,76.0,Virginia Tech
+Raul Neto,2013,47,PG,PG,nba_rookie_season,1.0,2016.0,,,,
+Ryan Kelly,2013,48,PF,PF,nba_rookie_season,1.0,2014.0,Stretch 4,6-11,83.0,Duke
+Erik Murphy,2013,49,C,C,nba_rookie_season,1.0,2014.0,PF/C,6-10,82.0,Florida
+James Ennis III,2013,50,SF,SF,nba_rookie_season,1.0,2015.0,,,,Cal State Long Beach
+Romero Osby,2013,51,,PF,college_position_model,0.6277784984479728,,PF/C,6-8,80.0,Oklahoma
+Lorenzo Brown,2013,52,PG,PG,nba_rookie_season,1.0,2014.0,Pure PG,6-5,77.0,NC State
+Colton Iverson,2013,53,,C,college_position_model,0.5405382703320355,,C,6-10,82.0,Colorado State
+Arsalan Kazemi,2013,54,,SF,college_position_model,0.6134418214242886,,PF/C,6-7,79.0,Oregon
+Joffrey Lauvergne,2013,55,C,C,nba_rookie_season,1.0,2015.0,,,,
+Peyton Siva,2013,56,SG,SG,nba_rookie_season,1.0,2014.0,Pure PG,6-0,72.0,Louisville
+Alex Oriakhi,2013,57,,PF,college_position_model,0.502274170700238,,C,6-9,81.0,Missouri
+Deshaun Thomas,2013,58,,SF,college_position_model,0.6097957298131341,,Wing F,6-7,79.0,Ohio State
+Bojan Dubljević,2013,59,,,,,,,,,
+Jānis Timma,2013,60,,,,,,,,,
+Andrew Wiggins,2014,1,SF,SF,nba_rookie_season,1.0,2015.0,Wing F,6-8,80.0,Kansas
+Jabari Parker,2014,2,PF,PF,nba_rookie_season,1.0,2015.0,PF/C,6-8,80.0,Duke
+Joel Embiid,2014,3,C,C,nba_rookie_season,1.0,2017.0,C,7-0,84.0,Kansas
+Aaron Gordon,2014,4,PF,PF,nba_rookie_season,1.0,2015.0,Wing F,6-8,80.0,Arizona
+Danté Exum,2014,5,PG,PG,nba_rookie_season,1.0,2015.0,,,,
+Marcus Smart,2014,6,PG,PG,nba_rookie_season,1.0,2015.0,Scoring PG,6-4,76.0,Oklahoma State
+Julius Randle,2014,7,PF,PF,nba_rookie_season,1.0,2015.0,C,6-9,81.0,Kentucky
+Nik Stauskas,2014,8,SG,SG,nba_rookie_season,1.0,2015.0,Combo G,6-6,78.0,Michigan
+Noah Vonleh,2014,9,PF,PF,nba_rookie_season,1.0,2015.0,PF/C,6-10,82.0,Indiana
+Elfrid Payton,2014,10,PG,PG,nba_rookie_season,1.0,2015.0,Scoring PG,6-3,75.0,Louisiana
+Doug McDermott,2014,11,SF,SF,nba_rookie_season,1.0,2015.0,Stretch 4,6-8,80.0,Creighton
+Dario Šarić,2014,12,PF,PF,nba_rookie_season,1.0,2017.0,,,,
+Zach LaVine,2014,13,PG,PG,nba_rookie_season,1.0,2015.0,Wing G,6-5,77.0,UCLA
+T.J. Warren,2014,14,SF,SF,nba_rookie_season,1.0,2015.0,Wing F,6-8,80.0,NC State
+Adreian Payne,2014,15,PF,PF,nba_rookie_season,1.0,2015.0,Stretch 4,6-10,82.0,Michigan State
+Jusuf Nurkić,2014,16,C,C,nba_rookie_season,1.0,2015.0,,,,
+James Young,2014,17,SG,SG,nba_rookie_season,1.0,2015.0,Wing G,6-6,78.0,Kentucky
+Tyler Ennis,2014,18,PG,PG,nba_rookie_season,1.0,2015.0,Pure PG,6-2,74.0,Syracuse
+Gary Harris,2014,19,SG,SG,nba_rookie_season,1.0,2015.0,Combo G,6-4,76.0,Michigan State
+Bruno Caboclo,2014,20,SF,SF,nba_rookie_season,1.0,2015.0,,,,
+Mitch McGary,2014,21,PF,PF,nba_rookie_season,1.0,2015.0,C,6-10,82.0,Michigan
+Jordan Adams,2014,22,SG,SG,nba_rookie_season,1.0,2015.0,Wing G,6-5,77.0,UCLA
+Rodney Hood,2014,23,SG,SG,nba_rookie_season,1.0,2015.0,Wing F,6-8,80.0,Duke
+Shabazz Napier,2014,24,PG,PG,nba_rookie_season,1.0,2015.0,Scoring PG,6-1,73.0,UConn
+Clint Capela,2014,25,C,C,nba_rookie_season,1.0,2015.0,,,,
+P.J. Hairston,2014,26,SG,SG,nba_rookie_season,1.0,2015.0,,,,UNC
+Bogdan Bogdanović,2014,27,SG,SG,nba_rookie_season,1.0,2018.0,,,,
+C.J. Wilcox,2014,28,SG,SG,nba_rookie_season,1.0,2015.0,Wing G,6-5,77.0,Washington
+Josh Huestis,2014,29,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-7,79.0,Stanford
+Kyle Anderson,2014,30,SF,SF,nba_rookie_season,1.0,2015.0,Wing F,6-9,81.0,UCLA
+Damien Inglis,2014,31,SF,SF,nba_rookie_season,1.0,2016.0,,,,
+K.J. McDaniels,2014,32,SG,SG,nba_rookie_season,1.0,2015.0,Stretch 4,6-5,77.0,Clemson
+Joe Harris,2014,33,SG,SG,nba_rookie_season,1.0,2015.0,Combo G,6-6,78.0,Virginia
+Cleanthony Early,2014,34,SF,SF,nba_rookie_season,1.0,2015.0,Stretch 4,6-8,80.0,Wichita State
+Jarnell Stokes,2014,35,PF,PF,nba_rookie_season,1.0,2015.0,C,6-8,80.0,Tennessee
+Johnny O'Bryant,2014,36,PF,PF,nba_rookie_season,1.0,2015.0,,,,LSU
+DeAndre Daniels,2014,37,,PF,college_position_model,0.5538455149827766,,Stretch 4,6-9,81.0,UConn
+Spencer Dinwiddie,2014,38,PG,PG,nba_rookie_season,1.0,2015.0,Scoring PG,6-6,78.0,Colorado
+Jerami Grant,2014,39,SF,SF,nba_rookie_season,1.0,2015.0,C,6-8,80.0,Syracuse
+Glenn Robinson III,2014,40,SG,SG,nba_rookie_season,1.0,2015.0,Wing G,6-6,78.0,Michigan
+Nikola Jokić,2014,41,C,C,nba_rookie_season,1.0,2016.0,,,,
+Nick Johnson,2014,42,SG,SG,nba_rookie_season,1.0,2015.0,Combo G,6-3,75.0,Arizona
+Edy Tavares,2014,43,C,C,nba_rookie_season,1.0,2016.0,,,,
+Markel Brown,2014,44,SG,SG,nba_rookie_season,1.0,2015.0,Wing G,6-3,75.0,Oklahoma State
+Dwight Powell,2014,45,PF,PF,nba_rookie_season,1.0,2015.0,Wing F,6-10,82.0,Stanford
+Jordan Clarkson,2014,46,PG,PG,nba_rookie_season,1.0,2015.0,Combo G,6-5,77.0,Missouri
+Russ Smith,2014,47,PG,PG,nba_rookie_season,1.0,2015.0,Pure PG,6-0,72.0,Louisville
+Lamar Patterson,2014,48,SG,SG,nba_rookie_season,1.0,2016.0,Scoring PG,6-5,77.0,Pitt
+Cameron Bairstow,2014,49,PF,PF,nba_rookie_season,1.0,2015.0,PF/C,6-9,81.0,New Mexico
+Alec Brown,2014,50,,C,college_position_model,0.9306793381887419,,PF/C,7-1,85.0,Green Bay
+Thanasis Antetokounmpo,2014,51,SF,SF,nba_rookie_season,1.0,2016.0,,,,
+Vasilije Micić,2014,52,PG,PG,nba_rookie_season,1.0,2024.0,,,,
+Alessandro Gentile,2014,53,,,,,,,,,
+Nemanja Dangubić,2014,54,,,,,,,,,
+Semaj Christon,2014,55,PG,PG,nba_rookie_season,1.0,2017.0,Scoring PG,6-3,75.0,Xavier
+Devyn Marble,2014,56,SG,SG,nba_rookie_season,1.0,2015.0,,,,Iowa
+Louis Labeyrie,2014,57,,,,,,,,,
+Jordan McRae,2014,58,PG,PG,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,Tennessee
+Xavier Thames,2014,59,,PG,college_position_model,0.7465425614649217,,Scoring PG,6-3,75.0,San Diego State
+Cory Jefferson,2014,60,PF,PF,nba_rookie_season,1.0,2015.0,PF/C,6-9,81.0,Baylor
+Karl-Anthony Towns,2015,1,C,C,nba_rookie_season,1.0,2016.0,C,6-11,83.0,Kentucky
+D'Angelo Russell,2015,2,PG,PG,nba_rookie_season,1.0,2016.0,Scoring PG,6-5,77.0,Ohio State
+Jahlil Okafor,2015,3,C,C,nba_rookie_season,1.0,2016.0,C,6-11,83.0,Duke
+Kristaps Porziņģis,2015,4,PF,PF,nba_rookie_season,1.0,2016.0,,,,
+Mario Hezonja,2015,5,SF,SF,nba_rookie_season,1.0,2016.0,,,,
+Willie Cauley-Stein,2015,6,C,C,nba_rookie_season,1.0,2016.0,C,7-0,84.0,Kentucky
+Emmanuel Mudiay,2015,7,PG,PG,nba_rookie_season,1.0,2016.0,,,,
+Stanley Johnson,2015,8,SF,SF,nba_rookie_season,1.0,2016.0,Wing F,6-6,78.0,Arizona
+Frank Kaminsky,2015,9,C,C,nba_rookie_season,1.0,2016.0,PF/C,7-0,84.0,Wisconsin
+Justise Winslow,2015,10,SF,SF,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,Duke
+Myles Turner,2015,11,C,C,nba_rookie_season,1.0,2016.0,PF/C,6-11,83.0,Texas
+Trey Lyles,2015,12,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-10,82.0,Kentucky
+Devin Booker,2015,13,SG,SG,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,Kentucky
+Cameron Payne,2015,14,PG,PG,nba_rookie_season,1.0,2016.0,Pure PG,6-2,74.0,Murray State
+Kelly Oubre Jr.,2015,15,SF,SF,nba_rookie_season,1.0,2016.0,,,,Kansas
+Terry Rozier,2015,16,PG,PG,nba_rookie_season,1.0,2016.0,Combo G,6-1,73.0,Louisville
+Rashad Vaughn,2015,17,SG,SG,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,UNLV
+Sam Dekker,2015,18,PF,PF,nba_rookie_season,1.0,2016.0,Wing F,6-9,81.0,Wisconsin
+Jerian Grant,2015,19,PG,PG,nba_rookie_season,1.0,2016.0,Pure PG,6-5,77.0,Notre Dame
+Delon Wright,2015,20,PG,PG,nba_rookie_season,1.0,2016.0,Scoring PG,6-5,77.0,Utah
+Justin Anderson,2015,21,SF,SF,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,Virginia
+Bobby Portis,2015,22,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-10,82.0,Arkansas
+Rondae Hollis-Jefferson,2015,23,SF,SF,nba_rookie_season,1.0,2016.0,Wing F,6-7,79.0,Arizona
+Tyus Jones,2015,24,PG,PG,nba_rookie_season,1.0,2016.0,Scoring PG,6-1,73.0,Duke
+Jarell Martin,2015,25,PF,PF,nba_rookie_season,1.0,2016.0,Wing F,6-9,81.0,LSU
+Nikola Milutinov,2015,26,,,,,,,,,
+Larry Nance Jr.,2015,27,PF,PF,nba_rookie_season,1.0,2016.0,Wing F,6-8,80.0,Wyoming
+R.J. Hunter,2015,28,SG,SG,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,Georgia State University
+Chris McCullough,2015,29,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-10,82.0,Syracuse
+Kevon Looney,2015,30,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-9,81.0,UCLA
+Cedi Osman,2015,31,SF,SF,nba_rookie_season,1.0,2018.0,,,,
+Montrezl Harrell,2015,32,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-8,80.0,Louisville
+Jordan Mickey,2015,33,PF,PF,nba_rookie_season,1.0,2016.0,C,6-8,80.0,LSU
+Anthony Brown,2015,34,SF,SF,nba_rookie_season,1.0,2016.0,Wing G,6-6,78.0,Stanford
+Willy Hernangómez,2015,35,C,C,nba_rookie_season,1.0,2017.0,,,,
+Rakeem Christmas,2015,36,PF,PF,nba_rookie_season,1.0,2016.0,C,6-9,81.0,Syracuse
+Richaun Holmes,2015,37,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-8,80.0,Bowling Green
+Darrun Hilliard,2015,38,SG,SG,nba_rookie_season,1.0,2016.0,Combo G,6-6,78.0,Villanova
+Juan Pablo Vaulet,2015,39,,,,,,,,,
+Josh Richardson,2015,40,SG,SG,nba_rookie_season,1.0,2016.0,Combo G,6-6,78.0,Tennessee
+Pat Connaughton,2015,41,SG,SG,nba_rookie_season,1.0,2016.0,Stretch 4,6-5,77.0,Notre Dame
+Olivier Hanlan,2015,42,,PG,college_position_model,0.7323249405608635,,Scoring PG,6-4,76.0,Boston College
+Joe Young,2015,43,PG,PG,nba_rookie_season,1.0,2016.0,,,,Oregon
+Andrew Harrison,2015,44,PG,PG,nba_rookie_season,1.0,2017.0,Scoring PG,6-6,78.0,Kentucky
+Marcus Thornton,2015,45,,SG,college_position_model,0.6105528151024587,,Combo G,6-4,76.0,William & Mary
+Norman Powell,2015,46,SG,SG,nba_rookie_season,1.0,2016.0,Wing G,6-4,76.0,UCLA
+Artūras Gudaitis,2015,47,,,,,,,,,
+Dakari Johnson,2015,48,C,C,nba_rookie_season,1.0,2018.0,C,7-0,84.0,Kentucky
+Aaron White,2015,49,,SF,college_position_model,0.6243298066476032,,Wing F,6-9,81.0,Iowa
+Marcus Eriksson,2015,50,,,,,,,,,
+Tyler Harvey,2015,51,,SG,college_position_model,0.7329904192048109,,Combo G,6-4,76.0,Eastern Washington
+Satnam Singh,2015,52,,,,,,,,,
+Sir'Dominic Pointer,2015,53,,SF,college_position_model,0.4720985135522719,,PF/C,6-6,78.0,St. John's
+Dani Díez,2015,54,,,,,,,,,
+Cady Lalanne,2015,55,,PF,college_position_model,0.511640713166641,,C,6-9,81.0,UMass
+Branden Dawson,2015,56,PF,PF,nba_rookie_season,1.0,2016.0,PF/C,6-6,78.0,Michigan State
+Nikola Radičević,2015,57,,,,,,,,,
+J.P. Tokoto,2015,58,,SG,college_position_model,0.5865267309542779,,Wing G,6-5,77.0,UNC
+Dimitrios Agravanis,2015,59,,,,,,,,,
+Luka Mitrović,2015,60,,,,,,,,,
+Ben Simmons,2016,1,PG,PG,nba_rookie_season,1.0,2018.0,Wing F,6-10,82.0,LSU
+Brandon Ingram,2016,2,SF,SF,nba_rookie_season,1.0,2017.0,Stretch 4,6-9,81.0,Duke
+Jaylen Brown,2016,3,SF,SF,nba_rookie_season,1.0,2017.0,Wing F,6-7,79.0,California
+Dragan Bender,2016,4,PF,PF,nba_rookie_season,1.0,2017.0,,,,
+Kris Dunn,2016,5,PG,PG,nba_rookie_season,1.0,2017.0,Pure PG,6-4,76.0,Providence
+Buddy Hield,2016,6,SG,SG,nba_rookie_season,1.0,2017.0,Wing G,6-4,76.0,Oklahoma
+Jamal Murray,2016,7,SG,SG,nba_rookie_season,1.0,2017.0,Wing G,6-4,76.0,Kentucky
+Marquese Chriss,2016,8,PF,PF,nba_rookie_season,1.0,2017.0,PF/C,6-9,81.0,Washington
+Jakob Poeltl,2016,9,C,C,nba_rookie_season,1.0,2017.0,C,7-0,84.0,Utah
+Thon Maker,2016,10,C,C,nba_rookie_season,1.0,2017.0,,,,
+Domantas Sabonis,2016,11,PF,PF,nba_rookie_season,1.0,2017.0,PF/C,6-11,83.0,Gonzaga
+Taurean Prince,2016,12,SF,SF,nba_rookie_season,1.0,2017.0,Wing F,6-8,80.0,Baylor
+Georgios Papagiannis,2016,13,C,C,nba_rookie_season,1.0,2017.0,,,,
+Denzel Valentine,2016,14,SG,SG,nba_rookie_season,1.0,2017.0,Pure PG,6-5,77.0,Michigan State
+Juancho Hernangómez,2016,15,PF,PF,nba_rookie_season,1.0,2017.0,,,,
+Guerschon Yabusele,2016,16,PF,PF,nba_rookie_season,1.0,2018.0,,,,
+Wade Baldwin,2016,17,PG,PG,nba_rookie_season,1.0,2017.0,,,,Vanderbilt
+Henry Ellenson,2016,18,PF,PF,nba_rookie_season,1.0,2017.0,PF/C,6-11,83.0,Marquette
+Malik Beasley,2016,19,SG,SG,nba_rookie_season,1.0,2017.0,Wing G,6-5,77.0,Florida State
+Caris LeVert,2016,20,SF,SF,nba_rookie_season,1.0,2017.0,Combo G,6-7,79.0,Michigan
+DeAndre' Bembry,2016,21,SF,SF,nba_rookie_season,1.0,2017.0,Wing G,6-6,78.0,Saint Joseph's
+Malachi Richardson,2016,22,SG,SG,nba_rookie_season,1.0,2017.0,Wing G,6-6,78.0,Syracuse
+Ante Žižić,2016,23,C,C,nba_rookie_season,1.0,2018.0,,,,
+Timothé Luwawu-Cabarrot,2016,24,SF,SF,nba_rookie_season,1.0,2017.0,,,,
+Brice Johnson,2016,25,PF,PF,nba_rookie_season,1.0,2017.0,C,6-10,82.0,UNC
+Furkan Korkmaz,2016,26,SG,SG,nba_rookie_season,1.0,2018.0,,,,
+Pascal Siakam,2016,27,PF,PF,nba_rookie_season,1.0,2017.0,C,6-9,81.0,New Mexico State
+Skal Labissière,2016,28,PF,PF,nba_rookie_season,1.0,2017.0,,,,Kentucky
+Dejounte Murray,2016,29,PG,PG,nba_rookie_season,1.0,2017.0,Combo G,6-4,76.0,Washington
+Damian Jones,2016,30,C,C,nba_rookie_season,1.0,2017.0,C,7-0,84.0,Vanderbilt
+Deyonta Davis,2016,31,C,C,nba_rookie_season,1.0,2017.0,C,6-10,82.0,Michigan State
+Ivica Zubac,2016,32,C,C,nba_rookie_season,1.0,2017.0,,,,
+Cheick Diallo,2016,33,PF,PF,nba_rookie_season,1.0,2017.0,C,6-9,81.0,Kansas
+Tyler Ulis,2016,34,PG,PG,nba_rookie_season,1.0,2017.0,Pure PG,5-9,69.0,Kentucky
+Rade Zagorac,2016,35,,,,,,,,,
+Malcolm Brogdon,2016,36,SG,SG,nba_rookie_season,1.0,2017.0,Combo G,6-5,77.0,Virginia
+Chinanu Onuaku,2016,37,C,C,nba_rookie_season,1.0,2017.0,C,6-10,82.0,Louisville
+Patrick McCaw,2016,38,SG,SG,nba_rookie_season,1.0,2017.0,Combo G,6-7,79.0,UNLV
+David Michineau,2016,39,,,,,,,,,
+Diamond Stone,2016,40,C,C,nba_rookie_season,1.0,2017.0,C,6-11,83.0,Maryland
+Stephen Zimmerman,2016,41,C,C,nba_rookie_season,1.0,2017.0,,,,UNLV
+Isaiah Whitehead,2016,42,PG,PG,nba_rookie_season,1.0,2017.0,Scoring PG,6-4,76.0,Seton Hall
+Zhou Qi,2016,43,C,C,nba_rookie_season,1.0,2018.0,,,,
+Isaïa Cordinier,2016,44,,,,,,,,,
+Demetrius Jackson,2016,45,PG,PG,nba_rookie_season,1.0,2017.0,Scoring PG,6-1,73.0,Notre Dame
+A.J. Hammons,2016,46,C,C,nba_rookie_season,1.0,2017.0,C,7-0,84.0,Purdue
+Jake Layman,2016,47,SF,SF,nba_rookie_season,1.0,2017.0,Wing F,6-9,81.0,Maryland
+Paul Zipser,2016,48,SF,SF,nba_rookie_season,1.0,2017.0,,,,
+Michael Gbinije,2016,49,SG,SG,nba_rookie_season,1.0,2017.0,Scoring PG,6-7,79.0,Syracuse
+Georges Niang,2016,50,PF,PF,nba_rookie_season,1.0,2017.0,Wing F,6-8,80.0,Iowa State
+Ben Bentil,2016,51,PF,PF,nba_rookie_season,1.0,2017.0,Stretch 4,6-9,81.0,Providence
+Joel Bolomboy,2016,52,PF,PF,nba_rookie_season,1.0,2017.0,PF/C,6-9,81.0,Weber State
+Petr Cornelie,2016,53,PF,PF,nba_rookie_season,1.0,2022.0,,,,
+Kay Felder,2016,54,PG,PG,nba_rookie_season,1.0,2017.0,,,,Oakland
+Marcus Paige,2016,55,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-2,74.0,UNC
+Daniel Hamilton,2016,56,SG,SG,nba_rookie_season,1.0,2018.0,Stretch 4,6-7,79.0,UConn
+Wang Zhelin,2016,57,,,,,,,,,
+Abdel Nader,2016,58,SF,SF,nba_rookie_season,1.0,2018.0,Wing G,6-6,78.0,Iowa State
+Isaiah Cousins,2016,59,,PG,college_position_model,0.6479299629583101,,Scoring PG,6-4,76.0,Oklahoma
+Tyrone Wallace,2016,60,PG,PG,nba_rookie_season,1.0,2018.0,Combo G,6-5,77.0,California
+Markelle Fultz,2017,1,SG,SG,nba_rookie_season,1.0,2018.0,Scoring PG,6-4,76.0,Washington
+Lonzo Ball,2017,2,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-6,78.0,UCLA
+Jayson Tatum,2017,3,SF,SF,nba_rookie_season,1.0,2018.0,Wing F,6-8,80.0,Duke
+Josh Jackson,2017,4,SF,SF,nba_rookie_season,1.0,2018.0,Wing F,6-8,80.0,Kansas
+De'Aaron Fox,2017,5,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-3,75.0,Kentucky
+Jonathan Isaac,2017,6,PF,PF,nba_rookie_season,1.0,2018.0,Stretch 4,6-10,82.0,Florida State
+Lauri Markkanen,2017,7,PF,PF,nba_rookie_season,1.0,2018.0,Stretch 4,7-0,84.0,Arizona
+Frank Ntilikina,2017,8,PG,PG,nba_rookie_season,1.0,2018.0,,,,
+Dennis Smith Jr.,2017,9,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-3,75.0,NC State
+Zach Collins,2017,10,C,C,nba_rookie_season,1.0,2018.0,C,7-0,84.0,Gonzaga
+Malik Monk,2017,11,SG,SG,nba_rookie_season,1.0,2018.0,Combo G,6-3,75.0,Kentucky
+Luke Kennard,2017,12,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-6,78.0,Duke
+Donovan Mitchell,2017,13,SG,SG,nba_rookie_season,1.0,2018.0,Combo G,6-3,75.0,Louisville
+Bam Adebayo,2017,14,C,C,nba_rookie_season,1.0,2018.0,,,,Kentucky
+Justin Jackson,2017,15,SF,SF,nba_rookie_season,1.0,2018.0,Wing F,6-8,80.0,UNC
+Justin Patton,2017,16,C,C,nba_rookie_season,1.0,2018.0,PF/C,7-0,84.0,Creighton
+D.J. Wilson,2017,17,PF,PF,nba_rookie_season,1.0,2018.0,Stretch 4,6-10,82.0,Michigan
+T.J. Leaf,2017,18,PF,PF,nba_rookie_season,1.0,2018.0,PF/C,6-10,82.0,UCLA
+John Collins,2017,19,PF,PF,nba_rookie_season,1.0,2018.0,C,6-10,82.0,Wake Forest
+Harry Giles,2017,20,PF,PF,nba_rookie_season,1.0,2019.0,C,6-10,82.0,Duke
+Terrance Ferguson,2017,21,SG,SG,nba_rookie_season,1.0,2018.0,,,,
+Jarrett Allen,2017,22,C,C,nba_rookie_season,1.0,2018.0,C,6-11,83.0,Texas
+OG Anunoby,2017,23,SF,SF,nba_rookie_season,1.0,2018.0,Wing F,6-8,80.0,Indiana
+Tyler Lydon,2017,24,PF,PF,nba_rookie_season,1.0,2018.0,Stretch 4,6-9,81.0,Syracuse
+Anžejs Pasečņiks,2017,25,C,C,nba_rookie_season,1.0,2020.0,,,,
+Caleb Swanigan,2017,26,PF,PF,nba_rookie_season,1.0,2018.0,PF/C,6-9,81.0,Purdue
+Kyle Kuzma,2017,27,PF,PF,nba_rookie_season,1.0,2018.0,PF/C,6-9,81.0,Utah
+Tony Bradley,2017,28,C,C,nba_rookie_season,1.0,2018.0,C,6-11,83.0,UNC
+Derrick White,2017,29,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-5,77.0,Colorado
+Josh Hart,2017,30,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-5,77.0,Villanova
+Frank Jackson,2017,31,PG,PG,nba_rookie_season,1.0,2019.0,Combo G,6-3,75.0,Duke
+Davon Reed,2017,32,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-6,78.0,Miami (FL)
+Wes Iwundu,2017,33,SF,SF,nba_rookie_season,1.0,2018.0,,,,Kansas State
+Frank Mason III,2017,34,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,5-11,71.0,Kansas
+Ivan Rabb,2017,35,PF,PF,nba_rookie_season,1.0,2018.0,PF/C,6-11,83.0,California
+Jonah Bolden,2017,36,PF,PF,nba_rookie_season,1.0,2019.0,,,,
+Semi Ojeleye,2017,37,PF,PF,nba_rookie_season,1.0,2018.0,Wing F,6-7,79.0,SMU
+Jordan Bell,2017,38,C,C,nba_rookie_season,1.0,2018.0,C,6-9,81.0,Oregon
+Jawun Evans,2017,39,PG,PG,nba_rookie_season,1.0,2018.0,Pure PG,6-1,73.0,Oklahoma State
+Dwayne Bacon,2017,40,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-7,79.0,Florida State
+Tyler Dorsey,2017,41,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-4,76.0,Oregon
+Thomas Bryant,2017,42,C,C,nba_rookie_season,1.0,2018.0,PF/C,6-10,82.0,Indiana
+Isaiah Hartenstein,2017,43,PF,PF,nba_rookie_season,1.0,2019.0,,,,
+Damyean Dotson,2017,44,SG,SG,nba_rookie_season,1.0,2018.0,Wing F,6-5,77.0,Oregon
+Dillon Brooks,2017,45,SF,SF,nba_rookie_season,1.0,2018.0,Wing G,6-7,79.0,Oregon
+Sterling Brown,2017,46,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-6,78.0,SMU
+Ike Anigbogu,2017,47,C,C,nba_rookie_season,1.0,2018.0,C,6-10,82.0,UCLA
+Sindarius Thornwell,2017,48,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-5,77.0,South Carolina
+Vlatko Čančar,2017,49,PF,PF,nba_rookie_season,1.0,2020.0,,,,
+Mathias Lessort,2017,50,,,,,,,,,
+Monte Morris,2017,51,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-3,75.0,Iowa State
+Edmond Sumner,2017,52,PG,PG,nba_rookie_season,1.0,2018.0,Scoring PG,6-6,78.0,Xavier
+Kadeem Allen,2017,53,PG,PG,nba_rookie_season,1.0,2018.0,Combo G,6-3,75.0,Arizona
+Alec Peters,2017,54,PF,PF,nba_rookie_season,1.0,2018.0,Stretch 4,6-9,81.0,Valparaiso
+Nigel Williams-Goss,2017,55,PG,PG,nba_rookie_season,1.0,2020.0,Combo G,6-3,75.0,Gonzaga
+Jabari Bird,2017,56,SG,SG,nba_rookie_season,1.0,2018.0,Wing G,6-6,78.0,California
+Sasha Vezenkov,2017,57,PF,PF,nba_rookie_season,1.0,2024.0,,,,
+Ognjen Jaramaz,2017,58,,,,,,,,,
+Jaron Blossomgame,2017,59,SF,SF,nba_rookie_season,1.0,2019.0,Wing F,6-7,79.0,Clemson
+Alpha Kaba,2017,60,,,,,,,,,
+Deandre Ayton,2018,1,C,C,nba_rookie_season,1.0,2019.0,C,7-1,85.0,Arizona
+Marvin Bagley III,2018,2,PF,PF,nba_rookie_season,1.0,2019.0,PF/C,6-11,83.0,Duke
+Luka Dončić,2018,3,SG,SG,nba_rookie_season,1.0,2019.0,,,,
+Jaren Jackson Jr.,2018,4,PF,PF,nba_rookie_season,1.0,2019.0,PF/C,6-11,83.0,Michigan State
+Trae Young,2018,5,PG,PG,nba_rookie_season,1.0,2019.0,Pure PG,6-2,74.0,Oklahoma
+Mo Bamba,2018,6,C,C,nba_rookie_season,1.0,2019.0,,,,Texas
+Wendell Carter Jr.,2018,7,C,C,nba_rookie_season,1.0,2019.0,PF/C,6-10,82.0,Duke
+Collin Sexton,2018,8,PG,PG,nba_rookie_season,1.0,2019.0,Scoring PG,6-3,75.0,Alabama
+Kevin Knox,2018,9,PF,PF,nba_rookie_season,1.0,2019.0,Wing F,6-9,81.0,Kentucky
+Mikal Bridges,2018,10,SF,SF,nba_rookie_season,1.0,2019.0,Wing G,6-7,79.0,Villanova
+Shai Gilgeous-Alexander,2018,11,PG,PG,nba_rookie_season,1.0,2019.0,Scoring PG,6-6,78.0,Kentucky
+Miles Bridges,2018,12,SF,SF,nba_rookie_season,1.0,2019.0,Wing F,6-7,79.0,Michigan State
+Jerome Robinson,2018,13,SG,SG,nba_rookie_season,1.0,2019.0,Combo G,6-5,77.0,Boston College
+Michael Porter Jr.,2018,14,SF,SF,nba_rookie_season,1.0,2020.0,Stretch 4,6-10,82.0,Missouri
+Troy Brown Jr.,2018,15,SF,SF,nba_rookie_season,1.0,2019.0,,,,Oregon
+Zhaire Smith,2018,16,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-5,77.0,Texas Tech
+Donte DiVincenzo,2018,17,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-5,77.0,Villanova
+Lonnie Walker IV,2018,18,SG,SG,nba_rookie_season,1.0,2019.0,Combo G,6-5,77.0,Miami (FL)
+Kevin Huerter,2018,19,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-7,79.0,Maryland
+Josh Okogie,2018,20,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-4,76.0,Georgia Tech
+Grayson Allen,2018,21,SG,SG,nba_rookie_season,1.0,2019.0,Scoring PG,6-5,77.0,Duke
+Chandler Hutchison,2018,22,SF,SF,nba_rookie_season,1.0,2019.0,Wing G,6-7,79.0,Boise State
+Aaron Holiday,2018,23,PG,PG,nba_rookie_season,1.0,2019.0,Scoring PG,6-1,73.0,UCLA
+Anfernee Simons,2018,24,SG,SG,nba_rookie_season,1.0,2019.0,,,,
+Moritz Wagner,2018,25,C,C,nba_rookie_season,1.0,2019.0,Stretch 4,6-11,83.0,Michigan
+Landry Shamet,2018,26,SG,SG,nba_rookie_season,1.0,2019.0,Scoring PG,6-4,76.0,Wichita State
+Robert Williams,2018,27,C,C,nba_rookie_season,1.0,2019.0,C,6-10,82.0,Texas A&M
+Jacob Evans,2018,28,SG,SG,nba_rookie_season,1.0,2019.0,,,,Cincinnati
+Džanan Musa,2018,29,SG,SG,nba_rookie_season,1.0,2019.0,,,,
+Omari Spellman,2018,30,PF,PF,nba_rookie_season,1.0,2019.0,PF/C,6-8,80.0,Villanova
+Elie Okobo,2018,31,PG,PG,nba_rookie_season,1.0,2019.0,,,,
+Jevon Carter,2018,32,PG,PG,nba_rookie_season,1.0,2019.0,Pure PG,6-2,74.0,West Virginia
+Jalen Brunson,2018,33,PG,PG,nba_rookie_season,1.0,2019.0,Scoring PG,6-2,74.0,Villanova
+Devonte' Graham,2018,34,PG,PG,nba_rookie_season,1.0,2019.0,Pure PG,6-2,74.0,Kansas
+Melvin Frazier,2018,35,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-6,78.0,Tulane
+Mitchell Robinson,2018,36,C,C,nba_rookie_season,1.0,2019.0,,,,
+Gary Trent Jr.,2018,37,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-6,78.0,Duke
+Khyri Thomas,2018,38,SG,SG,nba_rookie_season,1.0,2019.0,Combo G,6-3,75.0,Creighton
+Isaac Bonga,2018,39,PG,PG,nba_rookie_season,1.0,2019.0,,,,
+Rodions Kurucs,2018,40,SF,SF,nba_rookie_season,1.0,2019.0,,,,
+Jarred Vanderbilt,2018,41,PF,PF,nba_rookie_season,1.0,2019.0,C,6-9,81.0,Kentucky
+Bruce Brown,2018,42,SG,SG,nba_rookie_season,1.0,2019.0,,,,Miami (FL)
+Justin Jackson,2018,43,,PF,college_position_model,0.6674551848607859,,Stretch 4,6-7,79.0,Maryland
+Issuf Sanon,2018,44,,,,,,,,,
+Hamidou Diallo,2018,45,SG,SG,nba_rookie_season,1.0,2019.0,Wing G,6-5,77.0,Kentucky
+De'Anthony Melton,2018,46,PG,PG,nba_rookie_season,1.0,2019.0,,,,USC
+Svi Mykhailiuk,2018,47,SF,SF,nba_rookie_season,1.0,2019.0,,,,Kansas
+Keita Bates-Diop,2018,48,SF,SF,nba_rookie_season,1.0,2019.0,PF/C,6-7,79.0,Ohio State
+Chimezie Metu,2018,49,PF,PF,nba_rookie_season,1.0,2019.0,C,6-11,83.0,USC
+Alize Johnson,2018,50,PF,PF,nba_rookie_season,1.0,2019.0,PF/C,6-9,81.0,Missouri State
+Tony Carr,2018,51,,PG,college_position_model,0.5494385897739328,,Scoring PG,6-5,77.0,Penn State
+Vince Edwards,2018,52,SF,SF,nba_rookie_season,1.0,2019.0,,,,Purdue
+Devon Hall,2018,53,PG,PG,nba_rookie_season,1.0,2020.0,Combo G,6-5,77.0,Virginia
+Shake Milton,2018,54,SG,SG,nba_rookie_season,1.0,2019.0,Scoring PG,6-6,78.0,SMU
+Arnoldas Kulboka,2018,55,SF,SF,nba_rookie_season,1.0,2022.0,,,,
+Ray Spalding,2018,56,PF,PF,nba_rookie_season,1.0,2019.0,C,6-10,82.0,Louisville
+Kevin Hervey,2018,57,PF,PF,nba_rookie_season,1.0,2020.0,Stretch 4,6-7,79.0,UT Arlington
+Thomas Welsh,2018,58,C,C,nba_rookie_season,1.0,2019.0,PF/C,7-0,84.0,UCLA
+George King,2018,59,SF,SF,nba_rookie_season,1.0,2019.0,Stretch 4,6-6,78.0,Colorado
+Kostas Antetokounmpo,2018,60,PF,PF,nba_rookie_season,1.0,2019.0,C,6-10,82.0,Dayton
+Zion Williamson,2019,1,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-7,79.0,Duke
+Ja Morant,2019,2,PG,PG,nba_rookie_season,1.0,2020.0,Pure PG,6-3,75.0,Murray State
+RJ Barrett,2019,3,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-7,79.0,Duke
+De'Andre Hunter,2019,4,SF,SF,nba_rookie_season,1.0,2020.0,Wing F,6-7,79.0,Virginia
+Darius Garland,2019,5,SG,SG,nba_rookie_season,1.0,2020.0,Combo G,6-2,74.0,Vanderbilt
+Jarrett Culver,2019,6,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-5,77.0,Texas Tech
+Coby White,2019,7,PG,PG,nba_rookie_season,1.0,2020.0,Combo G,6-5,77.0,UNC
+Jaxson Hayes,2019,8,C,C,nba_rookie_season,1.0,2020.0,C,6-11,83.0,Texas
+Rui Hachimura,2019,9,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-8,80.0,Gonzaga
+Cam Reddish,2019,10,SF,SF,nba_rookie_season,1.0,2020.0,Wing F,6-8,80.0,Duke
+Cameron Johnson,2019,11,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-9,81.0,UNC
+P.J. Washington,2019,12,PF,PF,nba_rookie_season,1.0,2020.0,PF/C,6-8,80.0,Kentucky
+Tyler Herro,2019,13,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-5,77.0,Kentucky
+Romeo Langford,2019,14,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-6,78.0,Indiana
+Sekou Doumbouya,2019,15,PF,PF,nba_rookie_season,1.0,2020.0,,,,
+Chuma Okeke,2019,16,PF,PF,nba_rookie_season,1.0,2021.0,Stretch 4,6-8,80.0,Auburn
+Nickeil Alexander-Walker,2019,17,SG,SG,nba_rookie_season,1.0,2020.0,Scoring PG,6-5,77.0,Virginia Tech
+Goga Bitadze,2019,18,C,C,nba_rookie_season,1.0,2020.0,,,,
+Luka Šamanić,2019,19,PF,PF,nba_rookie_season,1.0,2020.0,,,,
+Matisse Thybulle,2019,20,SG,SG,nba_rookie_season,1.0,2020.0,Combo G,6-5,77.0,Washington
+Brandon Clarke,2019,21,PF,PF,nba_rookie_season,1.0,2020.0,C,6-8,80.0,Gonzaga
+Grant Williams,2019,22,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-7,79.0,Tennessee
+Darius Bazley,2019,23,PF,PF,nba_rookie_season,1.0,2020.0,,,,
+Ty Jerome,2019,24,SG,SG,nba_rookie_season,1.0,2020.0,Scoring PG,6-5,77.0,Virginia
+Nassir Little,2019,25,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-6,78.0,UNC
+Dylan Windler,2019,26,SF,SF,nba_rookie_season,1.0,2021.0,Stretch 4,6-8,80.0,Belmont
+Mfiondu Kabengele,2019,27,C,C,nba_rookie_season,1.0,2020.0,PF/C,6-10,82.0,Florida State
+Jordan Poole,2019,28,SG,SG,nba_rookie_season,1.0,2020.0,Combo G,6-5,77.0,Michigan
+Keldon Johnson,2019,29,SF,SF,nba_rookie_season,1.0,2020.0,Wing F,6-6,78.0,Kentucky
+Kevin Porter Jr.,2019,30,SF,SF,nba_rookie_season,1.0,2020.0,Wing G,6-6,78.0,USC
+Nic Claxton,2019,31,C,C,nba_rookie_season,1.0,2020.0,,,,Georgia
+KZ Okpala,2019,32,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-9,81.0,Stanford
+Carsen Edwards,2019,33,SG,SG,nba_rookie_season,1.0,2020.0,Combo G,6-1,73.0,Purdue
+Bruno Fernando,2019,34,C,C,nba_rookie_season,1.0,2020.0,C,6-10,82.0,Maryland
+Didi Louzada,2019,35,SF,SF,nba_rookie_season,1.0,2021.0,,,,
+Cody Martin,2019,36,SF,SF,nba_rookie_season,1.0,2020.0,Scoring PG,6-7,79.0,Nevada
+Deividas Sirvydis,2019,37,SG,SG,nba_rookie_season,1.0,2021.0,,,,
+Daniel Gafford,2019,38,C,C,nba_rookie_season,1.0,2020.0,C,6-11,83.0,Arkansas
+Alen Smailagić,2019,39,C,C,nba_rookie_season,1.0,2020.0,,,,
+Justin James,2019,40,SF,SF,nba_rookie_season,1.0,2020.0,Wing G,6-7,79.0,Wyoming
+Eric Paschall,2019,41,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-8,80.0,Villanova
+Admiral Schofield,2019,42,PF,PF,nba_rookie_season,1.0,2020.0,Wing F,6-6,78.0,Tennessee
+Jaylen Nowell,2019,43,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-4,76.0,Washington
+Bol Bol,2019,44,PF,PF,nba_rookie_season,1.0,2020.0,PF/C,7-2,86.0,Oregon
+Isaiah Roby,2019,45,PF,PF,nba_rookie_season,1.0,2020.0,Stretch 4,6-8,80.0,Nebraska
+Talen Horton-Tucker,2019,46,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-4,76.0,Iowa State
+Ignas Brazdeikis,2019,47,SF,SF,nba_rookie_season,1.0,2020.0,Wing F,6-7,79.0,Michigan
+Terance Mann,2019,48,SF,SF,nba_rookie_season,1.0,2020.0,Wing F,6-7,79.0,Florida State
+Quinndary Weatherspoon,2019,49,SG,SG,nba_rookie_season,1.0,2020.0,Combo G,6-4,76.0,Mississippi State
+Jarrell Brantley,2019,50,PF,PF,nba_rookie_season,1.0,2020.0,Stretch 4,6-7,79.0,College of Charleston
+Tremont Waters,2019,51,PG,PG,nba_rookie_season,1.0,2020.0,Pure PG,5-11,71.0,LSU
+Jalen McDaniels,2019,52,SF,SF,nba_rookie_season,1.0,2020.0,PF/C,6-10,82.0,San Diego State
+Justin Wright-Foreman,2019,53,PG,PG,nba_rookie_season,1.0,2020.0,Combo G,6-2,74.0,Hofstra
+Marial Shayok,2019,54,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-6,78.0,Iowa State
+Kyle Guy,2019,55,SG,SG,nba_rookie_season,1.0,2020.0,Wing G,6-2,74.0,Virginia
+Jaylen Hands,2019,56,,PG,college_position_model,0.9416976144301469,,Pure PG,6-3,75.0,UCLA
+Jordan Bone,2019,57,PG,PG,nba_rookie_season,1.0,2020.0,Scoring PG,6-3,75.0,Tennessee
+Miye Oni,2019,58,SF,SF,nba_rookie_season,1.0,2020.0,Wing F,6-6,78.0,Yale
+Dewan Hernandez,2019,59,C,C,nba_rookie_season,1.0,2020.0,,,,Miami (FL)
+Vanja Marinković,2019,60,,,,,,,,,
+Anthony Edwards,2020,1,SG,SG,nba_rookie_season,1.0,2021.0,Wing G,6-5,77.0,Georgia
+James Wiseman,2020,2,C,C,nba_rookie_season,1.0,2021.0,C,7-1,85.0,Memphis
+LaMelo Ball,2020,3,PG,PG,nba_rookie_season,1.0,2021.0,,,,
+Patrick Williams,2020,4,PF,PF,nba_rookie_season,1.0,2021.0,Wing F,6-8,80.0,Florida State
+Isaac Okoro,2020,5,SG,SG,nba_rookie_season,1.0,2021.0,Wing G,6-6,78.0,Auburn
+Onyeka Okongwu,2020,6,C,C,nba_rookie_season,1.0,2021.0,C,6-9,81.0,USC
+Killian Hayes,2020,7,PG,PG,nba_rookie_season,1.0,2021.0,,,,
+Obi Toppin,2020,8,PF,PF,nba_rookie_season,1.0,2021.0,Wing F,6-9,81.0,Dayton
+Deni Avdija,2020,9,SF,SF,nba_rookie_season,1.0,2021.0,,,,
+Jalen Smith,2020,10,PF,PF,nba_rookie_season,1.0,2021.0,PF/C,6-10,82.0,Maryland
+Devin Vassell,2020,11,SF,SF,nba_rookie_season,1.0,2021.0,Wing G,6-7,79.0,Florida State
+Tyrese Haliburton,2020,12,PG,PG,nba_rookie_season,1.0,2021.0,Scoring PG,6-5,77.0,Iowa State
+Kira Lewis Jr.,2020,13,PG,PG,nba_rookie_season,1.0,2021.0,Scoring PG,6-3,75.0,Alabama
+Aaron Nesmith,2020,14,SF,SF,nba_rookie_season,1.0,2021.0,Wing G,6-6,78.0,Vanderbilt
+Cole Anthony,2020,15,PG,PG,nba_rookie_season,1.0,2021.0,Combo G,6-3,75.0,UNC
+Isaiah Stewart,2020,16,C,C,nba_rookie_season,1.0,2021.0,C,6-9,81.0,Washington
+Aleksej Pokusevski,2020,17,PF,PF,nba_rookie_season,1.0,2021.0,,,,
+Josh Green,2020,18,SG,SG,nba_rookie_season,1.0,2021.0,Wing G,6-6,78.0,Arizona
+Saddiq Bey,2020,19,SF,SF,nba_rookie_season,1.0,2021.0,Wing F,6-8,80.0,Villanova
+Precious Achiuwa,2020,20,PF,PF,nba_rookie_season,1.0,2021.0,PF/C,6-9,81.0,Memphis
+Tyrese Maxey,2020,21,SG,SG,nba_rookie_season,1.0,2021.0,Combo G,6-3,75.0,Kentucky
+Zeke Nnaji,2020,22,PF,PF,nba_rookie_season,1.0,2021.0,PF/C,6-11,83.0,Arizona
+Leandro Bolmaro,2020,23,SF,SF,nba_rookie_season,1.0,2022.0,,,,
+R.J. Hampton,2020,24,SG,SG,nba_rookie_season,1.0,2021.0,,,,
+Immanuel Quickley,2020,25,PG,PG,nba_rookie_season,1.0,2021.0,Wing G,6-3,75.0,Kentucky
+Payton Pritchard,2020,26,SG,SG,nba_rookie_season,1.0,2021.0,Scoring PG,6-2,74.0,Oregon
+Udoka Azubuike,2020,27,C,C,nba_rookie_season,1.0,2021.0,C,7-0,84.0,Kansas
+Jaden McDaniels,2020,28,PF,PF,nba_rookie_season,1.0,2021.0,Stretch 4,6-9,81.0,Washington
+Malachi Flynn,2020,29,PG,PG,nba_rookie_season,1.0,2021.0,Scoring PG,6-1,73.0,San Diego State
+Desmond Bane,2020,30,SG,SG,nba_rookie_season,1.0,2021.0,Wing G,6-6,78.0,TCU
+Tyrell Terry,2020,31,PG,PG,nba_rookie_season,1.0,2021.0,Combo G,6-1,73.0,Stanford
+Vernon Carey Jr.,2020,32,C,C,nba_rookie_season,1.0,2021.0,PF/C,6-10,82.0,Duke
+Daniel Oturu,2020,33,C,C,nba_rookie_season,1.0,2021.0,PF/C,6-10,82.0,Minnesota
+Théo Maledon,2020,34,PG,PG,nba_rookie_season,1.0,2021.0,,,,
+Xavier Tillman Sr.,2020,35,PF,PF,nba_rookie_season,1.0,2021.0,,,,Michigan State
+Tyler Bey,2020,36,SF,SF,nba_rookie_season,1.0,2021.0,Wing F,6-7,79.0,Colorado
+Vít Krejčí,2020,37,SG,SG,nba_rookie_season,1.0,2022.0,,,,
+Saben Lee,2020,38,PG,PG,nba_rookie_season,1.0,2021.0,Scoring PG,6-2,74.0,Vanderbilt
+Elijah Hughes,2020,39,SF,SF,nba_rookie_season,1.0,2021.0,Wing G,6-6,78.0,Syracuse
+Robert Woodard II,2020,40,SF,SF,nba_rookie_season,1.0,2021.0,Wing F,6-7,79.0,Mississippi State
+Tre Jones,2020,41,PG,PG,nba_rookie_season,1.0,2021.0,Scoring PG,6-3,75.0,Duke
+Nick Richards,2020,42,PF,PF,nba_rookie_season,1.0,2021.0,C,6-11,83.0,Kentucky
+Jahmi'us Ramsey,2020,43,SG,SG,nba_rookie_season,1.0,2021.0,Combo G,6-4,76.0,Texas Tech
+Marko Simonovic,2020,44,C,C,nba_rookie_season,1.0,2022.0,,,,
+Jordan Nwora,2020,45,SF,SF,nba_rookie_season,1.0,2021.0,Wing F,6-7,79.0,Louisville
+CJ Elleby,2020,46,SF,SF,nba_rookie_season,1.0,2021.0,Wing F,6-6,78.0,Washington State
+Yam Madar,2020,47,,,,,,,,,
+Nico Mannion,2020,48,PG,PG,nba_rookie_season,1.0,2021.0,Pure PG,6-3,75.0,Arizona
+Isaiah Joe,2020,49,SG,SG,nba_rookie_season,1.0,2021.0,Wing G,6-5,77.0,Arkansas
+Skylar Mays,2020,50,SG,SG,nba_rookie_season,1.0,2021.0,Combo G,6-4,76.0,LSU
+Justinian Jessup,2020,51,,SF,college_position_model,0.613259110663942,,Wing G,6-7,79.0,Boise State
+KJ Martin,2020,52,SF,SF,nba_rookie_season,1.0,2021.0,,,,
+Cassius Winston,2020,53,PG,PG,nba_rookie_season,1.0,2021.0,Pure PG,6-1,73.0,Michigan State
+Cassius Stanley,2020,54,SG,SG,nba_rookie_season,1.0,2021.0,Wing F,6-6,78.0,Duke
+Jay Scrubb,2020,55,SG,SG,nba_rookie_season,1.0,2021.0,,,,John A. Logan College
+Grant Riller,2020,56,PG,PG,nba_rookie_season,1.0,2021.0,Scoring PG,6-3,75.0,College of Charleston
+Reggie Perry,2020,57,PF,PF,nba_rookie_season,1.0,2021.0,PF/C,6-10,82.0,Mississippi State
+Paul Reed,2020,58,PF,PF,nba_rookie_season,1.0,2021.0,PF/C,6-9,81.0,DePaul
+Jalen Harris,2020,59,SG,SG,nba_rookie_season,1.0,2021.0,Combo G,6-5,77.0,Nevada
+Sam Merrill,2020,60,SG,SG,nba_rookie_season,1.0,2021.0,Scoring PG,6-5,77.0,Utah State University
+Cade Cunningham,2021,1,SG,SG,nba_rookie_season,1.0,2022.0,Wing F,6-8,80.0,Oklahoma State
+Jalen Green,2021,2,SG,SG,nba_rookie_season,1.0,2022.0,,,,
+Evan Mobley,2021,3,PF,PF,nba_rookie_season,1.0,2022.0,C,7-0,84.0,USC
+Scottie Barnes,2021,4,PF,PF,nba_rookie_season,1.0,2022.0,Scoring PG,6-9,81.0,Florida State
+Jalen Suggs,2021,5,PG,PG,nba_rookie_season,1.0,2022.0,Combo G,6-4,76.0,Gonzaga
+Josh Giddey,2021,6,SF,SF,nba_rookie_season,1.0,2022.0,,,,
+Jonathan Kuminga,2021,7,SF,SF,nba_rookie_season,1.0,2022.0,,,,
+Franz Wagner,2021,8,SF,SF,nba_rookie_season,1.0,2022.0,Wing F,6-9,81.0,Michigan
+Davion Mitchell,2021,9,PG,PG,nba_rookie_season,1.0,2022.0,Pure PG,6-2,74.0,Baylor
+Ziaire Williams,2021,10,SF,SF,nba_rookie_season,1.0,2022.0,Wing F,6-8,80.0,Stanford
+James Bouknight,2021,11,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,UConn
+Joshua Primo,2021,12,SF,SF,nba_rookie_season,1.0,2022.0,Wing G,6-6,78.0,Alabama
+Chris Duarte,2021,13,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-6,78.0,Oregon
+Moses Moody,2021,14,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-6,78.0,Arkansas
+Corey Kispert,2021,15,SF,SF,nba_rookie_season,1.0,2022.0,Wing G,6-7,79.0,Gonzaga
+Alperen Şengün,2021,16,C,C,nba_rookie_season,1.0,2022.0,,,,
+Trey Murphy III,2021,17,SF,SF,nba_rookie_season,1.0,2022.0,Wing F,6-9,81.0,Virginia
+Tre Mann,2021,18,PG,PG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,Florida
+Kai Jones,2021,19,C,C,nba_rookie_season,1.0,2022.0,PF/C,6-11,83.0,Texas
+Jalen Johnson,2021,20,PF,PF,nba_rookie_season,1.0,2022.0,PF/C,6-9,81.0,Duke
+Keon Johnson,2021,21,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,Tennessee
+Isaiah Jackson,2021,22,C,C,nba_rookie_season,1.0,2022.0,C,6-10,82.0,Kentucky
+Usman Garuba,2021,23,PF,PF,nba_rookie_season,1.0,2022.0,,,,
+Josh Christopher,2021,24,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,Arizona State
+Quentin Grimes,2021,25,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,Houston
+Bones Hyland,2021,26,SG,SG,nba_rookie_season,1.0,2022.0,,,,VCU
+Cam Thomas,2021,27,SG,SG,nba_rookie_season,1.0,2022.0,,,,LSU
+Jaden Springer,2021,28,SG,SG,nba_rookie_season,1.0,2022.0,Combo G,6-4,76.0,Tennessee
+Day'Ron Sharpe,2021,29,PF,PF,nba_rookie_season,1.0,2022.0,C,6-11,83.0,UNC
+Santi Aldama,2021,30,PF,PF,nba_rookie_season,1.0,2022.0,PF/C,6-11,83.0,Loyola (MD)
+Isaiah Todd,2021,31,PF,PF,nba_rookie_season,1.0,2022.0,,,,
+Jeremiah Robinson-Earl,2021,32,C,C,nba_rookie_season,1.0,2022.0,Stretch 4,6-9,81.0,Villanova
+Jason Preston,2021,33,PG,PG,nba_rookie_season,1.0,2023.0,Scoring PG,6-4,76.0,Ohio University
+Rokas Jokubaitis,2021,34,,,,,,,,,
+Herbert Jones,2021,35,PF,PF,nba_rookie_season,1.0,2022.0,Wing F,6-8,80.0,Alabama
+Miles McBride,2021,36,PG,PG,nba_rookie_season,1.0,2022.0,Scoring PG,6-2,74.0,West Virginia
+JT Thor,2021,37,PF,PF,nba_rookie_season,1.0,2022.0,Stretch 4,6-10,82.0,Auburn
+Ayo Dosunmu,2021,38,SG,SG,nba_rookie_season,1.0,2022.0,Combo G,6-5,77.0,Illinois
+Neemias Queta,2021,39,C,C,nba_rookie_season,1.0,2022.0,C,7-0,84.0,Utah State University
+Jared Butler,2021,40,SG,SG,nba_rookie_season,1.0,2022.0,Scoring PG,6-3,75.0,Baylor
+Joe Wieskamp,2021,41,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-6,78.0,Iowa
+Isaiah Livers,2021,42,SF,SF,nba_rookie_season,1.0,2022.0,Wing F,6-7,79.0,Michigan
+Greg Brown III,2021,43,SF,SF,nba_rookie_season,1.0,2022.0,PF/C,6-9,81.0,Texas
+Kessler Edwards,2021,44,SF,SF,nba_rookie_season,1.0,2022.0,Stretch 4,6-8,80.0,Pepperdine
+Juhann Begarin,2021,45,,,,,,,,,
+Dalano Banton,2021,46,PG,PG,nba_rookie_season,1.0,2022.0,Stretch 4,6-9,81.0,Nebraska
+David Johnson,2021,47,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,Louisville
+Sharife Cooper,2021,48,PG,PG,nba_rookie_season,1.0,2022.0,Pure PG,6-1,73.0,Auburn
+Marcus Zegarowski,2021,49,,PG,college_position_model,0.8204988553680237,,Scoring PG,6-2,74.0,Creighton
+Filip Petrušev,2021,50,C,C,nba_rookie_season,1.0,2024.0,,,,Gonzaga
+Brandon Boston Jr.,2021,51,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-7,79.0,Kentucky
+Luka Garza,2021,52,C,C,nba_rookie_season,1.0,2022.0,PF/C,6-11,83.0,Iowa
+Charles Bassey,2021,53,C,C,nba_rookie_season,1.0,2022.0,C,6-11,83.0,Western Kentucky
+Sandro Mamukelashvili,2021,54,PF,PF,nba_rookie_season,1.0,2022.0,Wing F,6-11,83.0,Seton Hall
+Aaron Wiggins,2021,55,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-6,78.0,Maryland
+Scottie Lewis,2021,56,SG,SG,nba_rookie_season,1.0,2022.0,Wing G,6-5,77.0,Florida
+Balša Koprivica,2021,57,,,,,,,,,Florida State
+Jericho Sims,2021,58,PF,PF,nba_rookie_season,1.0,2022.0,C,6-10,82.0,Texas
+RaiQuan Gray,2021,59,PF,PF,nba_rookie_season,1.0,2023.0,Wing F,6-8,80.0,Florida State
+Georgios Kalaitzakis,2021,60,SF,SF,nba_rookie_season,1.0,2022.0,,,,
+Paolo Banchero,2022,1,PF,PF,nba_rookie_season,1.0,2023.0,Wing F,6-10,82.0,Duke
+Chet Holmgren,2022,2,C,C,nba_rookie_season,1.0,2024.0,PF/C,7-0,84.0,Gonzaga
+Jabari Smith Jr.,2022,3,PF,PF,nba_rookie_season,1.0,2023.0,,,,Auburn
+Keegan Murray,2022,4,SF,SF,nba_rookie_season,1.0,2023.0,Stretch 4,6-8,80.0,Iowa
+Jaden Ivey,2022,5,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-4,76.0,Purdue
+Bennedict Mathurin,2022,6,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-6,78.0,Arizona
+Shaedon Sharpe,2022,7,SG,SG,nba_rookie_season,1.0,2023.0,,,,Kentucky
+Dyson Daniels,2022,8,PG,PG,nba_rookie_season,1.0,2023.0,,,,
+Jeremy Sochan,2022,9,PF,PF,nba_rookie_season,1.0,2023.0,Stretch 4,6-9,81.0,Baylor
+Johnny Davis,2022,10,SG,SG,nba_rookie_season,1.0,2023.0,Wing F,6-5,77.0,Wisconsin
+Ousmane Dieng,2022,11,PF,PF,nba_rookie_season,1.0,2023.0,,,,
+Jalen Williams,2022,12,SG,SG,nba_rookie_season,1.0,2023.0,Combo G,6-6,78.0,Santa Clara
+Jalen Duren,2022,13,C,C,nba_rookie_season,1.0,2023.0,C,6-11,83.0,Memphis
+Ochai Agbaji,2022,14,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-5,77.0,Kansas
+Mark Williams,2022,15,C,C,nba_rookie_season,1.0,2023.0,C,7-0,84.0,Duke
+AJ Griffin,2022,16,SF,SF,nba_rookie_season,1.0,2023.0,Wing G,6-6,78.0,Duke
+Tari Eason,2022,17,PF,PF,nba_rookie_season,1.0,2023.0,Wing F,6-8,80.0,LSU
+Dalen Terry,2022,18,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-7,79.0,Arizona
+Jake LaRavia,2022,19,PF,PF,nba_rookie_season,1.0,2023.0,Wing F,6-8,80.0,Wake Forest
+Malaki Branham,2022,20,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-5,77.0,Ohio State
+Christian Braun,2022,21,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-6,78.0,Kansas
+Walker Kessler,2022,22,C,C,nba_rookie_season,1.0,2023.0,C,7-1,85.0,Auburn
+David Roddy,2022,23,PF,PF,nba_rookie_season,1.0,2023.0,Wing F,6-5,77.0,Colorado State
+MarJon Beauchamp,2022,24,SF,SF,nba_rookie_season,1.0,2023.0,,,,
+Blake Wesley,2022,25,SG,SG,nba_rookie_season,1.0,2023.0,Combo G,6-5,77.0,Notre Dame
+Wendell Moore Jr.,2022,26,SG,SG,nba_rookie_season,1.0,2023.0,Combo G,6-5,77.0,Duke
+Nikola Jović,2022,27,PF,PF,nba_rookie_season,1.0,2023.0,,,,
+Patrick Baldwin Jr.,2022,28,SF,SF,nba_rookie_season,1.0,2023.0,Stretch 4,6-9,81.0,UW-Milwaukee
+TyTy Washington Jr.,2022,29,PG,PG,nba_rookie_season,1.0,2023.0,Scoring PG,6-3,75.0,Kentucky
+Peyton Watson,2022,30,SG,SG,nba_rookie_season,1.0,2023.0,Stretch 4,6-8,80.0,UCLA
+Andrew Nembhard,2022,31,SG,SG,nba_rookie_season,1.0,2023.0,Scoring PG,6-5,77.0,Gonzaga
+Caleb Houstan,2022,32,SF,SF,nba_rookie_season,1.0,2023.0,Wing F,6-8,80.0,Michigan
+Christian Koloko,2022,33,C,C,nba_rookie_season,1.0,2023.0,C,7-1,85.0,Arizona
+Jaylin Williams,2022,34,C,C,nba_rookie_season,1.0,2023.0,PF/C,6-10,82.0,Arkansas
+Max Christie,2022,35,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-6,78.0,Michigan State
+Gabriele Procida,2022,36,,,,,,,,,
+Jaden Hardy,2022,37,SG,SG,nba_rookie_season,1.0,2023.0,,,,
+Kennedy Chandler,2022,38,PG,PG,nba_rookie_season,1.0,2023.0,Pure PG,6-0,72.0,Tennessee
+Khalifa Diop,2022,39,,,,,,,,,
+Bryce McGowens,2022,40,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-7,79.0,Nebraska
+E.J. Liddell,2022,41,PF,PF,nba_rookie_season,1.0,2024.0,PF/C,6-7,79.0,Ohio State
+Trevor Keels,2022,42,SG,SG,nba_rookie_season,1.0,2023.0,Combo G,6-4,76.0,Duke
+Moussa Diabaté,2022,43,C,C,nba_rookie_season,1.0,2023.0,,,,Michigan
+Ryan Rollins,2022,44,PG,PG,nba_rookie_season,1.0,2023.0,Combo G,6-4,76.0,Toledo
+Josh Minott,2022,45,SF,SF,nba_rookie_season,1.0,2023.0,PF/C,6-8,80.0,Memphis
+Ismael Kamagate,2022,46,,,,,,,,,
+Vince Williams Jr.,2022,47,SG,SG,nba_rookie_season,1.0,2023.0,Wing G,6-6,78.0,VCU
+Kendall Brown,2022,48,SG,SG,nba_rookie_season,1.0,2023.0,Wing F,6-8,80.0,Baylor
+Isaiah Mobley,2022,49,PF,PF,nba_rookie_season,1.0,2023.0,Stretch 4,6-10,82.0,USC
+Matteo Spagnolo,2022,50,,,,,,,,,
+Tyrese Martin,2022,51,SG,SG,nba_rookie_season,1.0,2023.0,Wing F,6-6,78.0,UConn
+Karlo Matković,2022,52,PF,PF,nba_rookie_season,1.0,2025.0,,,,
+JD Davison,2022,53,SG,SG,nba_rookie_season,1.0,2023.0,Scoring PG,6-3,75.0,Alabama
+Yannick Nzosa,2022,54,,,,,,,,,
+Gui Santos,2022,55,PF,PF,nba_rookie_season,1.0,2024.0,,,,
+Luke Travers,2022,56,SG,SG,nba_rookie_season,1.0,2025.0,,,,
+Jabari Walker,2022,57,PF,PF,nba_rookie_season,1.0,2023.0,PF/C,6-9,81.0,Colorado
+Hugo Besson,2022,58,,,,,,,,,
+Victor Wembanyama,2023,1,C,C,nba_rookie_season,1.0,2024.0,,,,
+Brandon Miller,2023,2,SF,SF,nba_rookie_season,1.0,2024.0,Stretch 4,6-9,81.0,Alabama
+Scoot Henderson,2023,3,PG,PG,nba_rookie_season,1.0,2024.0,,,,
+Amen Thompson,2023,4,SF,SF,nba_rookie_season,1.0,2024.0,,,,
+Ausar Thompson,2023,5,SF,SF,nba_rookie_season,1.0,2024.0,,,,
+Anthony Black,2023,6,PG,PG,nba_rookie_season,1.0,2024.0,Wing G,6-7,79.0,Arkansas
+Bilal Coulibaly,2023,7,SF,SF,nba_rookie_season,1.0,2024.0,,,,
+Jarace Walker,2023,8,PF,PF,nba_rookie_season,1.0,2024.0,Stretch 4,6-8,80.0,Houston
+Taylor Hendricks,2023,9,PF,PF,nba_rookie_season,1.0,2024.0,Stretch 4,6-9,81.0,Central Florida
+Cason Wallace,2023,10,SG,SG,nba_rookie_season,1.0,2024.0,Scoring PG,6-4,76.0,Kentucky
+Jett Howard,2023,11,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-8,80.0,Michigan
+Dereck Lively II,2023,12,C,C,nba_rookie_season,1.0,2024.0,C,7-1,85.0,Duke
+Gradey Dick,2023,13,SG,SG,nba_rookie_season,1.0,2024.0,Wing F,6-8,80.0,Kansas
+Jordan Hawkins,2023,14,SG,SG,nba_rookie_season,1.0,2024.0,Wing G,6-5,77.0,UConn
+Kobe Bufkin,2023,15,SG,SG,nba_rookie_season,1.0,2024.0,Combo G,6-4,76.0,Michigan
+Keyonte George,2023,16,PG,PG,nba_rookie_season,1.0,2024.0,Combo G,6-4,76.0,Baylor
+Jalen Hood-Schifino,2023,17,SG,SG,nba_rookie_season,1.0,2024.0,Wing G,6-6,78.0,Indiana
+Jaime Jaquez Jr.,2023,18,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-7,79.0,UCLA
+Brandin Podziemski,2023,19,SG,SG,nba_rookie_season,1.0,2024.0,Wing G,6-5,77.0,Santa Clara
+Cam Whitmore,2023,20,SF,SF,nba_rookie_season,1.0,2024.0,Wing G,6-7,79.0,Villanova
+Noah Clowney,2023,21,PF,PF,nba_rookie_season,1.0,2024.0,PF/C,6-10,82.0,Alabama
+Dariq Whitehead,2023,22,SF,SF,nba_rookie_season,1.0,2024.0,Wing G,6-6,78.0,Duke
+Kris Murray,2023,23,SF,SF,nba_rookie_season,1.0,2024.0,Stretch 4,6-8,80.0,Iowa
+Olivier-Maxence Prosper,2023,24,PF,PF,nba_rookie_season,1.0,2024.0,Wing F,6-8,80.0,Marquette
+Marcus Sasser,2023,25,PG,PG,nba_rookie_season,1.0,2024.0,Scoring PG,6-2,74.0,Houston
+Ben Sheppard,2023,26,SG,SG,nba_rookie_season,1.0,2024.0,Wing G,6-6,78.0,Belmont
+Nick Smith Jr.,2023,27,SG,SG,nba_rookie_season,1.0,2024.0,Combo G,6-5,77.0,Arkansas
+Brice Sensabaugh,2023,28,SF,SF,nba_rookie_season,1.0,2024.0,Stretch 4,6-6,78.0,Ohio State
+Julian Strawther,2023,29,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-7,79.0,Gonzaga
+Kobe Brown,2023,30,PF,PF,nba_rookie_season,1.0,2024.0,Wing F,6-8,80.0,Missouri
+James Nnaji,2023,31,,,,,,,,,
+Jalen Pickett,2023,32,SG,SG,nba_rookie_season,1.0,2024.0,Scoring PG,6-4,76.0,Penn State
+Leonard Miller,2023,33,SF,SF,nba_rookie_season,1.0,2024.0,,,,
+Colby Jones,2023,34,SG,SG,nba_rookie_season,1.0,2024.0,Wing G,6-6,78.0,Xavier
+Julian Phillips,2023,35,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-8,80.0,Tennessee
+Andre Jackson Jr.,2023,36,SG,SG,nba_rookie_season,1.0,2024.0,Wing G,6-6,78.0,UConn
+Hunter Tyson,2023,37,PF,PF,nba_rookie_season,1.0,2024.0,Stretch 4,6-8,80.0,Clemson
+Jordan Walsh,2023,38,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-7,79.0,Arkansas
+Mouhamed Gueye,2023,39,PF,PF,nba_rookie_season,1.0,2024.0,PF/C,6-11,83.0,Washington State
+Maxwell Lewis,2023,40,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-7,79.0,Pepperdine
+Amari Bailey,2023,41,PG,PG,nba_rookie_season,1.0,2024.0,Wing G,6-5,77.0,UCLA
+Tristan Vukcevic,2023,42,C,C,nba_rookie_season,1.0,2024.0,,,,
+Rayan Rupert,2023,43,SG,SG,nba_rookie_season,1.0,2024.0,,,,
+Sidy Cissoko,2023,44,SF,SF,nba_rookie_season,1.0,2024.0,,,,
+GG Jackson II,2023,45,PF,PF,nba_rookie_season,1.0,2024.0,,,,South Carolina
+Seth Lundy,2023,46,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-6,78.0,Penn State
+Mojave King,2023,47,,,,,,,,,
+Jordan Miller,2023,48,SF,SF,nba_rookie_season,1.0,2024.0,Wing G,6-7,79.0,Miami (FL)
+Emoni Bates,2023,49,SF,SF,nba_rookie_season,1.0,2024.0,Stretch 4,6-10,82.0,Eastern Michigan
+Keyontae Johnson,2023,50,SF,SF,nba_rookie_season,1.0,2024.0,Wing G,6-6,78.0,Kansas State
+Jalen Wilson,2023,51,PF,PF,nba_rookie_season,1.0,2024.0,Stretch 4,6-8,80.0,Kansas
+Toumani Camara,2023,52,PF,PF,nba_rookie_season,1.0,2024.0,PF/C,6-8,80.0,Dayton
+Jaylen Clark,2023,53,SG,SG,nba_rookie_season,1.0,2025.0,Wing G,6-5,77.0,UCLA
+Jalen Slawson,2023,54,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-7,79.0,Furman University
+Isaiah Wong,2023,55,SG,SG,nba_rookie_season,1.0,2024.0,Combo G,6-4,76.0,Miami (FL)
+Tarik Biberovic,2023,56,,,,,,,,,
+Trayce Jackson-Davis,2023,57,PF,PF,nba_rookie_season,1.0,2024.0,C,6-9,81.0,Indiana
+Chris Livingston,2023,58,SF,SF,nba_rookie_season,1.0,2024.0,Wing F,6-6,78.0,Kentucky

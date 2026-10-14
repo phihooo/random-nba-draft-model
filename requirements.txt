@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+beautifulsoup4
+lxml
+matplotlib
+scipy
+scikit-learn>=1.5
+pillow
+reportlab
